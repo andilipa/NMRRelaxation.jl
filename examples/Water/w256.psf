@@ -1,0 +1,1525 @@
+PSF
+
+       3 !NTITLE
+ REMARKS original generated structure x-plor psf file
+ REMARKS topology top_tip4p.inp 
+ REMARKS segment SOLV { first NONE; last NONE; auto none  }
+
+    1024 !NATOM
+       1 SOLV 1    TIP4 OH2  OT     0.000000       15.9994           0
+       2 SOLV 1    TIP4 H1   HT     0.556400        1.0080           0
+       3 SOLV 1    TIP4 H2   HT     0.556400        1.0080           0
+       4 SOLV 1    TIP4 OM   LP    -1.112800        0.0000           0
+       5 SOLV 2    TIP4 OH2  OT     0.000000       15.9994           0
+       6 SOLV 2    TIP4 H1   HT     0.556400        1.0080           0
+       7 SOLV 2    TIP4 H2   HT     0.556400        1.0080           0
+       8 SOLV 2    TIP4 OM   LP    -1.112800        0.0000           0
+       9 SOLV 3    TIP4 OH2  OT     0.000000       15.9994           0
+      10 SOLV 3    TIP4 H1   HT     0.556400        1.0080           0
+      11 SOLV 3    TIP4 H2   HT     0.556400        1.0080           0
+      12 SOLV 3    TIP4 OM   LP    -1.112800        0.0000           0
+      13 SOLV 4    TIP4 OH2  OT     0.000000       15.9994           0
+      14 SOLV 4    TIP4 H1   HT     0.556400        1.0080           0
+      15 SOLV 4    TIP4 H2   HT     0.556400        1.0080           0
+      16 SOLV 4    TIP4 OM   LP    -1.112800        0.0000           0
+      17 SOLV 5    TIP4 OH2  OT     0.000000       15.9994           0
+      18 SOLV 5    TIP4 H1   HT     0.556400        1.0080           0
+      19 SOLV 5    TIP4 H2   HT     0.556400        1.0080           0
+      20 SOLV 5    TIP4 OM   LP    -1.112800        0.0000           0
+      21 SOLV 6    TIP4 OH2  OT     0.000000       15.9994           0
+      22 SOLV 6    TIP4 H1   HT     0.556400        1.0080           0
+      23 SOLV 6    TIP4 H2   HT     0.556400        1.0080           0
+      24 SOLV 6    TIP4 OM   LP    -1.112800        0.0000           0
+      25 SOLV 7    TIP4 OH2  OT     0.000000       15.9994           0
+      26 SOLV 7    TIP4 H1   HT     0.556400        1.0080           0
+      27 SOLV 7    TIP4 H2   HT     0.556400        1.0080           0
+      28 SOLV 7    TIP4 OM   LP    -1.112800        0.0000           0
+      29 SOLV 8    TIP4 OH2  OT     0.000000       15.9994           0
+      30 SOLV 8    TIP4 H1   HT     0.556400        1.0080           0
+      31 SOLV 8    TIP4 H2   HT     0.556400        1.0080           0
+      32 SOLV 8    TIP4 OM   LP    -1.112800        0.0000           0
+      33 SOLV 9    TIP4 OH2  OT     0.000000       15.9994           0
+      34 SOLV 9    TIP4 H1   HT     0.556400        1.0080           0
+      35 SOLV 9    TIP4 H2   HT     0.556400        1.0080           0
+      36 SOLV 9    TIP4 OM   LP    -1.112800        0.0000           0
+      37 SOLV 10   TIP4 OH2  OT     0.000000       15.9994           0
+      38 SOLV 10   TIP4 H1   HT     0.556400        1.0080           0
+      39 SOLV 10   TIP4 H2   HT     0.556400        1.0080           0
+      40 SOLV 10   TIP4 OM   LP    -1.112800        0.0000           0
+      41 SOLV 11   TIP4 OH2  OT     0.000000       15.9994           0
+      42 SOLV 11   TIP4 H1   HT     0.556400        1.0080           0
+      43 SOLV 11   TIP4 H2   HT     0.556400        1.0080           0
+      44 SOLV 11   TIP4 OM   LP    -1.112800        0.0000           0
+      45 SOLV 12   TIP4 OH2  OT     0.000000       15.9994           0
+      46 SOLV 12   TIP4 H1   HT     0.556400        1.0080           0
+      47 SOLV 12   TIP4 H2   HT     0.556400        1.0080           0
+      48 SOLV 12   TIP4 OM   LP    -1.112800        0.0000           0
+      49 SOLV 13   TIP4 OH2  OT     0.000000       15.9994           0
+      50 SOLV 13   TIP4 H1   HT     0.556400        1.0080           0
+      51 SOLV 13   TIP4 H2   HT     0.556400        1.0080           0
+      52 SOLV 13   TIP4 OM   LP    -1.112800        0.0000           0
+      53 SOLV 14   TIP4 OH2  OT     0.000000       15.9994           0
+      54 SOLV 14   TIP4 H1   HT     0.556400        1.0080           0
+      55 SOLV 14   TIP4 H2   HT     0.556400        1.0080           0
+      56 SOLV 14   TIP4 OM   LP    -1.112800        0.0000           0
+      57 SOLV 15   TIP4 OH2  OT     0.000000       15.9994           0
+      58 SOLV 15   TIP4 H1   HT     0.556400        1.0080           0
+      59 SOLV 15   TIP4 H2   HT     0.556400        1.0080           0
+      60 SOLV 15   TIP4 OM   LP    -1.112800        0.0000           0
+      61 SOLV 16   TIP4 OH2  OT     0.000000       15.9994           0
+      62 SOLV 16   TIP4 H1   HT     0.556400        1.0080           0
+      63 SOLV 16   TIP4 H2   HT     0.556400        1.0080           0
+      64 SOLV 16   TIP4 OM   LP    -1.112800        0.0000           0
+      65 SOLV 17   TIP4 OH2  OT     0.000000       15.9994           0
+      66 SOLV 17   TIP4 H1   HT     0.556400        1.0080           0
+      67 SOLV 17   TIP4 H2   HT     0.556400        1.0080           0
+      68 SOLV 17   TIP4 OM   LP    -1.112800        0.0000           0
+      69 SOLV 18   TIP4 OH2  OT     0.000000       15.9994           0
+      70 SOLV 18   TIP4 H1   HT     0.556400        1.0080           0
+      71 SOLV 18   TIP4 H2   HT     0.556400        1.0080           0
+      72 SOLV 18   TIP4 OM   LP    -1.112800        0.0000           0
+      73 SOLV 19   TIP4 OH2  OT     0.000000       15.9994           0
+      74 SOLV 19   TIP4 H1   HT     0.556400        1.0080           0
+      75 SOLV 19   TIP4 H2   HT     0.556400        1.0080           0
+      76 SOLV 19   TIP4 OM   LP    -1.112800        0.0000           0
+      77 SOLV 20   TIP4 OH2  OT     0.000000       15.9994           0
+      78 SOLV 20   TIP4 H1   HT     0.556400        1.0080           0
+      79 SOLV 20   TIP4 H2   HT     0.556400        1.0080           0
+      80 SOLV 20   TIP4 OM   LP    -1.112800        0.0000           0
+      81 SOLV 21   TIP4 OH2  OT     0.000000       15.9994           0
+      82 SOLV 21   TIP4 H1   HT     0.556400        1.0080           0
+      83 SOLV 21   TIP4 H2   HT     0.556400        1.0080           0
+      84 SOLV 21   TIP4 OM   LP    -1.112800        0.0000           0
+      85 SOLV 22   TIP4 OH2  OT     0.000000       15.9994           0
+      86 SOLV 22   TIP4 H1   HT     0.556400        1.0080           0
+      87 SOLV 22   TIP4 H2   HT     0.556400        1.0080           0
+      88 SOLV 22   TIP4 OM   LP    -1.112800        0.0000           0
+      89 SOLV 23   TIP4 OH2  OT     0.000000       15.9994           0
+      90 SOLV 23   TIP4 H1   HT     0.556400        1.0080           0
+      91 SOLV 23   TIP4 H2   HT     0.556400        1.0080           0
+      92 SOLV 23   TIP4 OM   LP    -1.112800        0.0000           0
+      93 SOLV 24   TIP4 OH2  OT     0.000000       15.9994           0
+      94 SOLV 24   TIP4 H1   HT     0.556400        1.0080           0
+      95 SOLV 24   TIP4 H2   HT     0.556400        1.0080           0
+      96 SOLV 24   TIP4 OM   LP    -1.112800        0.0000           0
+      97 SOLV 25   TIP4 OH2  OT     0.000000       15.9994           0
+      98 SOLV 25   TIP4 H1   HT     0.556400        1.0080           0
+      99 SOLV 25   TIP4 H2   HT     0.556400        1.0080           0
+     100 SOLV 25   TIP4 OM   LP    -1.112800        0.0000           0
+     101 SOLV 26   TIP4 OH2  OT     0.000000       15.9994           0
+     102 SOLV 26   TIP4 H1   HT     0.556400        1.0080           0
+     103 SOLV 26   TIP4 H2   HT     0.556400        1.0080           0
+     104 SOLV 26   TIP4 OM   LP    -1.112800        0.0000           0
+     105 SOLV 27   TIP4 OH2  OT     0.000000       15.9994           0
+     106 SOLV 27   TIP4 H1   HT     0.556400        1.0080           0
+     107 SOLV 27   TIP4 H2   HT     0.556400        1.0080           0
+     108 SOLV 27   TIP4 OM   LP    -1.112800        0.0000           0
+     109 SOLV 28   TIP4 OH2  OT     0.000000       15.9994           0
+     110 SOLV 28   TIP4 H1   HT     0.556400        1.0080           0
+     111 SOLV 28   TIP4 H2   HT     0.556400        1.0080           0
+     112 SOLV 28   TIP4 OM   LP    -1.112800        0.0000           0
+     113 SOLV 29   TIP4 OH2  OT     0.000000       15.9994           0
+     114 SOLV 29   TIP4 H1   HT     0.556400        1.0080           0
+     115 SOLV 29   TIP4 H2   HT     0.556400        1.0080           0
+     116 SOLV 29   TIP4 OM   LP    -1.112800        0.0000           0
+     117 SOLV 30   TIP4 OH2  OT     0.000000       15.9994           0
+     118 SOLV 30   TIP4 H1   HT     0.556400        1.0080           0
+     119 SOLV 30   TIP4 H2   HT     0.556400        1.0080           0
+     120 SOLV 30   TIP4 OM   LP    -1.112800        0.0000           0
+     121 SOLV 31   TIP4 OH2  OT     0.000000       15.9994           0
+     122 SOLV 31   TIP4 H1   HT     0.556400        1.0080           0
+     123 SOLV 31   TIP4 H2   HT     0.556400        1.0080           0
+     124 SOLV 31   TIP4 OM   LP    -1.112800        0.0000           0
+     125 SOLV 32   TIP4 OH2  OT     0.000000       15.9994           0
+     126 SOLV 32   TIP4 H1   HT     0.556400        1.0080           0
+     127 SOLV 32   TIP4 H2   HT     0.556400        1.0080           0
+     128 SOLV 32   TIP4 OM   LP    -1.112800        0.0000           0
+     129 SOLV 33   TIP4 OH2  OT     0.000000       15.9994           0
+     130 SOLV 33   TIP4 H1   HT     0.556400        1.0080           0
+     131 SOLV 33   TIP4 H2   HT     0.556400        1.0080           0
+     132 SOLV 33   TIP4 OM   LP    -1.112800        0.0000           0
+     133 SOLV 34   TIP4 OH2  OT     0.000000       15.9994           0
+     134 SOLV 34   TIP4 H1   HT     0.556400        1.0080           0
+     135 SOLV 34   TIP4 H2   HT     0.556400        1.0080           0
+     136 SOLV 34   TIP4 OM   LP    -1.112800        0.0000           0
+     137 SOLV 35   TIP4 OH2  OT     0.000000       15.9994           0
+     138 SOLV 35   TIP4 H1   HT     0.556400        1.0080           0
+     139 SOLV 35   TIP4 H2   HT     0.556400        1.0080           0
+     140 SOLV 35   TIP4 OM   LP    -1.112800        0.0000           0
+     141 SOLV 36   TIP4 OH2  OT     0.000000       15.9994           0
+     142 SOLV 36   TIP4 H1   HT     0.556400        1.0080           0
+     143 SOLV 36   TIP4 H2   HT     0.556400        1.0080           0
+     144 SOLV 36   TIP4 OM   LP    -1.112800        0.0000           0
+     145 SOLV 37   TIP4 OH2  OT     0.000000       15.9994           0
+     146 SOLV 37   TIP4 H1   HT     0.556400        1.0080           0
+     147 SOLV 37   TIP4 H2   HT     0.556400        1.0080           0
+     148 SOLV 37   TIP4 OM   LP    -1.112800        0.0000           0
+     149 SOLV 38   TIP4 OH2  OT     0.000000       15.9994           0
+     150 SOLV 38   TIP4 H1   HT     0.556400        1.0080           0
+     151 SOLV 38   TIP4 H2   HT     0.556400        1.0080           0
+     152 SOLV 38   TIP4 OM   LP    -1.112800        0.0000           0
+     153 SOLV 39   TIP4 OH2  OT     0.000000       15.9994           0
+     154 SOLV 39   TIP4 H1   HT     0.556400        1.0080           0
+     155 SOLV 39   TIP4 H2   HT     0.556400        1.0080           0
+     156 SOLV 39   TIP4 OM   LP    -1.112800        0.0000           0
+     157 SOLV 40   TIP4 OH2  OT     0.000000       15.9994           0
+     158 SOLV 40   TIP4 H1   HT     0.556400        1.0080           0
+     159 SOLV 40   TIP4 H2   HT     0.556400        1.0080           0
+     160 SOLV 40   TIP4 OM   LP    -1.112800        0.0000           0
+     161 SOLV 41   TIP4 OH2  OT     0.000000       15.9994           0
+     162 SOLV 41   TIP4 H1   HT     0.556400        1.0080           0
+     163 SOLV 41   TIP4 H2   HT     0.556400        1.0080           0
+     164 SOLV 41   TIP4 OM   LP    -1.112800        0.0000           0
+     165 SOLV 42   TIP4 OH2  OT     0.000000       15.9994           0
+     166 SOLV 42   TIP4 H1   HT     0.556400        1.0080           0
+     167 SOLV 42   TIP4 H2   HT     0.556400        1.0080           0
+     168 SOLV 42   TIP4 OM   LP    -1.112800        0.0000           0
+     169 SOLV 43   TIP4 OH2  OT     0.000000       15.9994           0
+     170 SOLV 43   TIP4 H1   HT     0.556400        1.0080           0
+     171 SOLV 43   TIP4 H2   HT     0.556400        1.0080           0
+     172 SOLV 43   TIP4 OM   LP    -1.112800        0.0000           0
+     173 SOLV 44   TIP4 OH2  OT     0.000000       15.9994           0
+     174 SOLV 44   TIP4 H1   HT     0.556400        1.0080           0
+     175 SOLV 44   TIP4 H2   HT     0.556400        1.0080           0
+     176 SOLV 44   TIP4 OM   LP    -1.112800        0.0000           0
+     177 SOLV 45   TIP4 OH2  OT     0.000000       15.9994           0
+     178 SOLV 45   TIP4 H1   HT     0.556400        1.0080           0
+     179 SOLV 45   TIP4 H2   HT     0.556400        1.0080           0
+     180 SOLV 45   TIP4 OM   LP    -1.112800        0.0000           0
+     181 SOLV 46   TIP4 OH2  OT     0.000000       15.9994           0
+     182 SOLV 46   TIP4 H1   HT     0.556400        1.0080           0
+     183 SOLV 46   TIP4 H2   HT     0.556400        1.0080           0
+     184 SOLV 46   TIP4 OM   LP    -1.112800        0.0000           0
+     185 SOLV 47   TIP4 OH2  OT     0.000000       15.9994           0
+     186 SOLV 47   TIP4 H1   HT     0.556400        1.0080           0
+     187 SOLV 47   TIP4 H2   HT     0.556400        1.0080           0
+     188 SOLV 47   TIP4 OM   LP    -1.112800        0.0000           0
+     189 SOLV 48   TIP4 OH2  OT     0.000000       15.9994           0
+     190 SOLV 48   TIP4 H1   HT     0.556400        1.0080           0
+     191 SOLV 48   TIP4 H2   HT     0.556400        1.0080           0
+     192 SOLV 48   TIP4 OM   LP    -1.112800        0.0000           0
+     193 SOLV 49   TIP4 OH2  OT     0.000000       15.9994           0
+     194 SOLV 49   TIP4 H1   HT     0.556400        1.0080           0
+     195 SOLV 49   TIP4 H2   HT     0.556400        1.0080           0
+     196 SOLV 49   TIP4 OM   LP    -1.112800        0.0000           0
+     197 SOLV 50   TIP4 OH2  OT     0.000000       15.9994           0
+     198 SOLV 50   TIP4 H1   HT     0.556400        1.0080           0
+     199 SOLV 50   TIP4 H2   HT     0.556400        1.0080           0
+     200 SOLV 50   TIP4 OM   LP    -1.112800        0.0000           0
+     201 SOLV 51   TIP4 OH2  OT     0.000000       15.9994           0
+     202 SOLV 51   TIP4 H1   HT     0.556400        1.0080           0
+     203 SOLV 51   TIP4 H2   HT     0.556400        1.0080           0
+     204 SOLV 51   TIP4 OM   LP    -1.112800        0.0000           0
+     205 SOLV 52   TIP4 OH2  OT     0.000000       15.9994           0
+     206 SOLV 52   TIP4 H1   HT     0.556400        1.0080           0
+     207 SOLV 52   TIP4 H2   HT     0.556400        1.0080           0
+     208 SOLV 52   TIP4 OM   LP    -1.112800        0.0000           0
+     209 SOLV 53   TIP4 OH2  OT     0.000000       15.9994           0
+     210 SOLV 53   TIP4 H1   HT     0.556400        1.0080           0
+     211 SOLV 53   TIP4 H2   HT     0.556400        1.0080           0
+     212 SOLV 53   TIP4 OM   LP    -1.112800        0.0000           0
+     213 SOLV 54   TIP4 OH2  OT     0.000000       15.9994           0
+     214 SOLV 54   TIP4 H1   HT     0.556400        1.0080           0
+     215 SOLV 54   TIP4 H2   HT     0.556400        1.0080           0
+     216 SOLV 54   TIP4 OM   LP    -1.112800        0.0000           0
+     217 SOLV 55   TIP4 OH2  OT     0.000000       15.9994           0
+     218 SOLV 55   TIP4 H1   HT     0.556400        1.0080           0
+     219 SOLV 55   TIP4 H2   HT     0.556400        1.0080           0
+     220 SOLV 55   TIP4 OM   LP    -1.112800        0.0000           0
+     221 SOLV 56   TIP4 OH2  OT     0.000000       15.9994           0
+     222 SOLV 56   TIP4 H1   HT     0.556400        1.0080           0
+     223 SOLV 56   TIP4 H2   HT     0.556400        1.0080           0
+     224 SOLV 56   TIP4 OM   LP    -1.112800        0.0000           0
+     225 SOLV 57   TIP4 OH2  OT     0.000000       15.9994           0
+     226 SOLV 57   TIP4 H1   HT     0.556400        1.0080           0
+     227 SOLV 57   TIP4 H2   HT     0.556400        1.0080           0
+     228 SOLV 57   TIP4 OM   LP    -1.112800        0.0000           0
+     229 SOLV 58   TIP4 OH2  OT     0.000000       15.9994           0
+     230 SOLV 58   TIP4 H1   HT     0.556400        1.0080           0
+     231 SOLV 58   TIP4 H2   HT     0.556400        1.0080           0
+     232 SOLV 58   TIP4 OM   LP    -1.112800        0.0000           0
+     233 SOLV 59   TIP4 OH2  OT     0.000000       15.9994           0
+     234 SOLV 59   TIP4 H1   HT     0.556400        1.0080           0
+     235 SOLV 59   TIP4 H2   HT     0.556400        1.0080           0
+     236 SOLV 59   TIP4 OM   LP    -1.112800        0.0000           0
+     237 SOLV 60   TIP4 OH2  OT     0.000000       15.9994           0
+     238 SOLV 60   TIP4 H1   HT     0.556400        1.0080           0
+     239 SOLV 60   TIP4 H2   HT     0.556400        1.0080           0
+     240 SOLV 60   TIP4 OM   LP    -1.112800        0.0000           0
+     241 SOLV 61   TIP4 OH2  OT     0.000000       15.9994           0
+     242 SOLV 61   TIP4 H1   HT     0.556400        1.0080           0
+     243 SOLV 61   TIP4 H2   HT     0.556400        1.0080           0
+     244 SOLV 61   TIP4 OM   LP    -1.112800        0.0000           0
+     245 SOLV 62   TIP4 OH2  OT     0.000000       15.9994           0
+     246 SOLV 62   TIP4 H1   HT     0.556400        1.0080           0
+     247 SOLV 62   TIP4 H2   HT     0.556400        1.0080           0
+     248 SOLV 62   TIP4 OM   LP    -1.112800        0.0000           0
+     249 SOLV 63   TIP4 OH2  OT     0.000000       15.9994           0
+     250 SOLV 63   TIP4 H1   HT     0.556400        1.0080           0
+     251 SOLV 63   TIP4 H2   HT     0.556400        1.0080           0
+     252 SOLV 63   TIP4 OM   LP    -1.112800        0.0000           0
+     253 SOLV 64   TIP4 OH2  OT     0.000000       15.9994           0
+     254 SOLV 64   TIP4 H1   HT     0.556400        1.0080           0
+     255 SOLV 64   TIP4 H2   HT     0.556400        1.0080           0
+     256 SOLV 64   TIP4 OM   LP    -1.112800        0.0000           0
+     257 SOLV 65   TIP4 OH2  OT     0.000000       15.9994           0
+     258 SOLV 65   TIP4 H1   HT     0.556400        1.0080           0
+     259 SOLV 65   TIP4 H2   HT     0.556400        1.0080           0
+     260 SOLV 65   TIP4 OM   LP    -1.112800        0.0000           0
+     261 SOLV 66   TIP4 OH2  OT     0.000000       15.9994           0
+     262 SOLV 66   TIP4 H1   HT     0.556400        1.0080           0
+     263 SOLV 66   TIP4 H2   HT     0.556400        1.0080           0
+     264 SOLV 66   TIP4 OM   LP    -1.112800        0.0000           0
+     265 SOLV 67   TIP4 OH2  OT     0.000000       15.9994           0
+     266 SOLV 67   TIP4 H1   HT     0.556400        1.0080           0
+     267 SOLV 67   TIP4 H2   HT     0.556400        1.0080           0
+     268 SOLV 67   TIP4 OM   LP    -1.112800        0.0000           0
+     269 SOLV 68   TIP4 OH2  OT     0.000000       15.9994           0
+     270 SOLV 68   TIP4 H1   HT     0.556400        1.0080           0
+     271 SOLV 68   TIP4 H2   HT     0.556400        1.0080           0
+     272 SOLV 68   TIP4 OM   LP    -1.112800        0.0000           0
+     273 SOLV 69   TIP4 OH2  OT     0.000000       15.9994           0
+     274 SOLV 69   TIP4 H1   HT     0.556400        1.0080           0
+     275 SOLV 69   TIP4 H2   HT     0.556400        1.0080           0
+     276 SOLV 69   TIP4 OM   LP    -1.112800        0.0000           0
+     277 SOLV 70   TIP4 OH2  OT     0.000000       15.9994           0
+     278 SOLV 70   TIP4 H1   HT     0.556400        1.0080           0
+     279 SOLV 70   TIP4 H2   HT     0.556400        1.0080           0
+     280 SOLV 70   TIP4 OM   LP    -1.112800        0.0000           0
+     281 SOLV 71   TIP4 OH2  OT     0.000000       15.9994           0
+     282 SOLV 71   TIP4 H1   HT     0.556400        1.0080           0
+     283 SOLV 71   TIP4 H2   HT     0.556400        1.0080           0
+     284 SOLV 71   TIP4 OM   LP    -1.112800        0.0000           0
+     285 SOLV 72   TIP4 OH2  OT     0.000000       15.9994           0
+     286 SOLV 72   TIP4 H1   HT     0.556400        1.0080           0
+     287 SOLV 72   TIP4 H2   HT     0.556400        1.0080           0
+     288 SOLV 72   TIP4 OM   LP    -1.112800        0.0000           0
+     289 SOLV 73   TIP4 OH2  OT     0.000000       15.9994           0
+     290 SOLV 73   TIP4 H1   HT     0.556400        1.0080           0
+     291 SOLV 73   TIP4 H2   HT     0.556400        1.0080           0
+     292 SOLV 73   TIP4 OM   LP    -1.112800        0.0000           0
+     293 SOLV 74   TIP4 OH2  OT     0.000000       15.9994           0
+     294 SOLV 74   TIP4 H1   HT     0.556400        1.0080           0
+     295 SOLV 74   TIP4 H2   HT     0.556400        1.0080           0
+     296 SOLV 74   TIP4 OM   LP    -1.112800        0.0000           0
+     297 SOLV 75   TIP4 OH2  OT     0.000000       15.9994           0
+     298 SOLV 75   TIP4 H1   HT     0.556400        1.0080           0
+     299 SOLV 75   TIP4 H2   HT     0.556400        1.0080           0
+     300 SOLV 75   TIP4 OM   LP    -1.112800        0.0000           0
+     301 SOLV 76   TIP4 OH2  OT     0.000000       15.9994           0
+     302 SOLV 76   TIP4 H1   HT     0.556400        1.0080           0
+     303 SOLV 76   TIP4 H2   HT     0.556400        1.0080           0
+     304 SOLV 76   TIP4 OM   LP    -1.112800        0.0000           0
+     305 SOLV 77   TIP4 OH2  OT     0.000000       15.9994           0
+     306 SOLV 77   TIP4 H1   HT     0.556400        1.0080           0
+     307 SOLV 77   TIP4 H2   HT     0.556400        1.0080           0
+     308 SOLV 77   TIP4 OM   LP    -1.112800        0.0000           0
+     309 SOLV 78   TIP4 OH2  OT     0.000000       15.9994           0
+     310 SOLV 78   TIP4 H1   HT     0.556400        1.0080           0
+     311 SOLV 78   TIP4 H2   HT     0.556400        1.0080           0
+     312 SOLV 78   TIP4 OM   LP    -1.112800        0.0000           0
+     313 SOLV 79   TIP4 OH2  OT     0.000000       15.9994           0
+     314 SOLV 79   TIP4 H1   HT     0.556400        1.0080           0
+     315 SOLV 79   TIP4 H2   HT     0.556400        1.0080           0
+     316 SOLV 79   TIP4 OM   LP    -1.112800        0.0000           0
+     317 SOLV 80   TIP4 OH2  OT     0.000000       15.9994           0
+     318 SOLV 80   TIP4 H1   HT     0.556400        1.0080           0
+     319 SOLV 80   TIP4 H2   HT     0.556400        1.0080           0
+     320 SOLV 80   TIP4 OM   LP    -1.112800        0.0000           0
+     321 SOLV 81   TIP4 OH2  OT     0.000000       15.9994           0
+     322 SOLV 81   TIP4 H1   HT     0.556400        1.0080           0
+     323 SOLV 81   TIP4 H2   HT     0.556400        1.0080           0
+     324 SOLV 81   TIP4 OM   LP    -1.112800        0.0000           0
+     325 SOLV 82   TIP4 OH2  OT     0.000000       15.9994           0
+     326 SOLV 82   TIP4 H1   HT     0.556400        1.0080           0
+     327 SOLV 82   TIP4 H2   HT     0.556400        1.0080           0
+     328 SOLV 82   TIP4 OM   LP    -1.112800        0.0000           0
+     329 SOLV 83   TIP4 OH2  OT     0.000000       15.9994           0
+     330 SOLV 83   TIP4 H1   HT     0.556400        1.0080           0
+     331 SOLV 83   TIP4 H2   HT     0.556400        1.0080           0
+     332 SOLV 83   TIP4 OM   LP    -1.112800        0.0000           0
+     333 SOLV 84   TIP4 OH2  OT     0.000000       15.9994           0
+     334 SOLV 84   TIP4 H1   HT     0.556400        1.0080           0
+     335 SOLV 84   TIP4 H2   HT     0.556400        1.0080           0
+     336 SOLV 84   TIP4 OM   LP    -1.112800        0.0000           0
+     337 SOLV 85   TIP4 OH2  OT     0.000000       15.9994           0
+     338 SOLV 85   TIP4 H1   HT     0.556400        1.0080           0
+     339 SOLV 85   TIP4 H2   HT     0.556400        1.0080           0
+     340 SOLV 85   TIP4 OM   LP    -1.112800        0.0000           0
+     341 SOLV 86   TIP4 OH2  OT     0.000000       15.9994           0
+     342 SOLV 86   TIP4 H1   HT     0.556400        1.0080           0
+     343 SOLV 86   TIP4 H2   HT     0.556400        1.0080           0
+     344 SOLV 86   TIP4 OM   LP    -1.112800        0.0000           0
+     345 SOLV 87   TIP4 OH2  OT     0.000000       15.9994           0
+     346 SOLV 87   TIP4 H1   HT     0.556400        1.0080           0
+     347 SOLV 87   TIP4 H2   HT     0.556400        1.0080           0
+     348 SOLV 87   TIP4 OM   LP    -1.112800        0.0000           0
+     349 SOLV 88   TIP4 OH2  OT     0.000000       15.9994           0
+     350 SOLV 88   TIP4 H1   HT     0.556400        1.0080           0
+     351 SOLV 88   TIP4 H2   HT     0.556400        1.0080           0
+     352 SOLV 88   TIP4 OM   LP    -1.112800        0.0000           0
+     353 SOLV 89   TIP4 OH2  OT     0.000000       15.9994           0
+     354 SOLV 89   TIP4 H1   HT     0.556400        1.0080           0
+     355 SOLV 89   TIP4 H2   HT     0.556400        1.0080           0
+     356 SOLV 89   TIP4 OM   LP    -1.112800        0.0000           0
+     357 SOLV 90   TIP4 OH2  OT     0.000000       15.9994           0
+     358 SOLV 90   TIP4 H1   HT     0.556400        1.0080           0
+     359 SOLV 90   TIP4 H2   HT     0.556400        1.0080           0
+     360 SOLV 90   TIP4 OM   LP    -1.112800        0.0000           0
+     361 SOLV 91   TIP4 OH2  OT     0.000000       15.9994           0
+     362 SOLV 91   TIP4 H1   HT     0.556400        1.0080           0
+     363 SOLV 91   TIP4 H2   HT     0.556400        1.0080           0
+     364 SOLV 91   TIP4 OM   LP    -1.112800        0.0000           0
+     365 SOLV 92   TIP4 OH2  OT     0.000000       15.9994           0
+     366 SOLV 92   TIP4 H1   HT     0.556400        1.0080           0
+     367 SOLV 92   TIP4 H2   HT     0.556400        1.0080           0
+     368 SOLV 92   TIP4 OM   LP    -1.112800        0.0000           0
+     369 SOLV 93   TIP4 OH2  OT     0.000000       15.9994           0
+     370 SOLV 93   TIP4 H1   HT     0.556400        1.0080           0
+     371 SOLV 93   TIP4 H2   HT     0.556400        1.0080           0
+     372 SOLV 93   TIP4 OM   LP    -1.112800        0.0000           0
+     373 SOLV 94   TIP4 OH2  OT     0.000000       15.9994           0
+     374 SOLV 94   TIP4 H1   HT     0.556400        1.0080           0
+     375 SOLV 94   TIP4 H2   HT     0.556400        1.0080           0
+     376 SOLV 94   TIP4 OM   LP    -1.112800        0.0000           0
+     377 SOLV 95   TIP4 OH2  OT     0.000000       15.9994           0
+     378 SOLV 95   TIP4 H1   HT     0.556400        1.0080           0
+     379 SOLV 95   TIP4 H2   HT     0.556400        1.0080           0
+     380 SOLV 95   TIP4 OM   LP    -1.112800        0.0000           0
+     381 SOLV 96   TIP4 OH2  OT     0.000000       15.9994           0
+     382 SOLV 96   TIP4 H1   HT     0.556400        1.0080           0
+     383 SOLV 96   TIP4 H2   HT     0.556400        1.0080           0
+     384 SOLV 96   TIP4 OM   LP    -1.112800        0.0000           0
+     385 SOLV 97   TIP4 OH2  OT     0.000000       15.9994           0
+     386 SOLV 97   TIP4 H1   HT     0.556400        1.0080           0
+     387 SOLV 97   TIP4 H2   HT     0.556400        1.0080           0
+     388 SOLV 97   TIP4 OM   LP    -1.112800        0.0000           0
+     389 SOLV 98   TIP4 OH2  OT     0.000000       15.9994           0
+     390 SOLV 98   TIP4 H1   HT     0.556400        1.0080           0
+     391 SOLV 98   TIP4 H2   HT     0.556400        1.0080           0
+     392 SOLV 98   TIP4 OM   LP    -1.112800        0.0000           0
+     393 SOLV 99   TIP4 OH2  OT     0.000000       15.9994           0
+     394 SOLV 99   TIP4 H1   HT     0.556400        1.0080           0
+     395 SOLV 99   TIP4 H2   HT     0.556400        1.0080           0
+     396 SOLV 99   TIP4 OM   LP    -1.112800        0.0000           0
+     397 SOLV 100  TIP4 OH2  OT     0.000000       15.9994           0
+     398 SOLV 100  TIP4 H1   HT     0.556400        1.0080           0
+     399 SOLV 100  TIP4 H2   HT     0.556400        1.0080           0
+     400 SOLV 100  TIP4 OM   LP    -1.112800        0.0000           0
+     401 SOLV 101  TIP4 OH2  OT     0.000000       15.9994           0
+     402 SOLV 101  TIP4 H1   HT     0.556400        1.0080           0
+     403 SOLV 101  TIP4 H2   HT     0.556400        1.0080           0
+     404 SOLV 101  TIP4 OM   LP    -1.112800        0.0000           0
+     405 SOLV 102  TIP4 OH2  OT     0.000000       15.9994           0
+     406 SOLV 102  TIP4 H1   HT     0.556400        1.0080           0
+     407 SOLV 102  TIP4 H2   HT     0.556400        1.0080           0
+     408 SOLV 102  TIP4 OM   LP    -1.112800        0.0000           0
+     409 SOLV 103  TIP4 OH2  OT     0.000000       15.9994           0
+     410 SOLV 103  TIP4 H1   HT     0.556400        1.0080           0
+     411 SOLV 103  TIP4 H2   HT     0.556400        1.0080           0
+     412 SOLV 103  TIP4 OM   LP    -1.112800        0.0000           0
+     413 SOLV 104  TIP4 OH2  OT     0.000000       15.9994           0
+     414 SOLV 104  TIP4 H1   HT     0.556400        1.0080           0
+     415 SOLV 104  TIP4 H2   HT     0.556400        1.0080           0
+     416 SOLV 104  TIP4 OM   LP    -1.112800        0.0000           0
+     417 SOLV 105  TIP4 OH2  OT     0.000000       15.9994           0
+     418 SOLV 105  TIP4 H1   HT     0.556400        1.0080           0
+     419 SOLV 105  TIP4 H2   HT     0.556400        1.0080           0
+     420 SOLV 105  TIP4 OM   LP    -1.112800        0.0000           0
+     421 SOLV 106  TIP4 OH2  OT     0.000000       15.9994           0
+     422 SOLV 106  TIP4 H1   HT     0.556400        1.0080           0
+     423 SOLV 106  TIP4 H2   HT     0.556400        1.0080           0
+     424 SOLV 106  TIP4 OM   LP    -1.112800        0.0000           0
+     425 SOLV 107  TIP4 OH2  OT     0.000000       15.9994           0
+     426 SOLV 107  TIP4 H1   HT     0.556400        1.0080           0
+     427 SOLV 107  TIP4 H2   HT     0.556400        1.0080           0
+     428 SOLV 107  TIP4 OM   LP    -1.112800        0.0000           0
+     429 SOLV 108  TIP4 OH2  OT     0.000000       15.9994           0
+     430 SOLV 108  TIP4 H1   HT     0.556400        1.0080           0
+     431 SOLV 108  TIP4 H2   HT     0.556400        1.0080           0
+     432 SOLV 108  TIP4 OM   LP    -1.112800        0.0000           0
+     433 SOLV 109  TIP4 OH2  OT     0.000000       15.9994           0
+     434 SOLV 109  TIP4 H1   HT     0.556400        1.0080           0
+     435 SOLV 109  TIP4 H2   HT     0.556400        1.0080           0
+     436 SOLV 109  TIP4 OM   LP    -1.112800        0.0000           0
+     437 SOLV 110  TIP4 OH2  OT     0.000000       15.9994           0
+     438 SOLV 110  TIP4 H1   HT     0.556400        1.0080           0
+     439 SOLV 110  TIP4 H2   HT     0.556400        1.0080           0
+     440 SOLV 110  TIP4 OM   LP    -1.112800        0.0000           0
+     441 SOLV 111  TIP4 OH2  OT     0.000000       15.9994           0
+     442 SOLV 111  TIP4 H1   HT     0.556400        1.0080           0
+     443 SOLV 111  TIP4 H2   HT     0.556400        1.0080           0
+     444 SOLV 111  TIP4 OM   LP    -1.112800        0.0000           0
+     445 SOLV 112  TIP4 OH2  OT     0.000000       15.9994           0
+     446 SOLV 112  TIP4 H1   HT     0.556400        1.0080           0
+     447 SOLV 112  TIP4 H2   HT     0.556400        1.0080           0
+     448 SOLV 112  TIP4 OM   LP    -1.112800        0.0000           0
+     449 SOLV 113  TIP4 OH2  OT     0.000000       15.9994           0
+     450 SOLV 113  TIP4 H1   HT     0.556400        1.0080           0
+     451 SOLV 113  TIP4 H2   HT     0.556400        1.0080           0
+     452 SOLV 113  TIP4 OM   LP    -1.112800        0.0000           0
+     453 SOLV 114  TIP4 OH2  OT     0.000000       15.9994           0
+     454 SOLV 114  TIP4 H1   HT     0.556400        1.0080           0
+     455 SOLV 114  TIP4 H2   HT     0.556400        1.0080           0
+     456 SOLV 114  TIP4 OM   LP    -1.112800        0.0000           0
+     457 SOLV 115  TIP4 OH2  OT     0.000000       15.9994           0
+     458 SOLV 115  TIP4 H1   HT     0.556400        1.0080           0
+     459 SOLV 115  TIP4 H2   HT     0.556400        1.0080           0
+     460 SOLV 115  TIP4 OM   LP    -1.112800        0.0000           0
+     461 SOLV 116  TIP4 OH2  OT     0.000000       15.9994           0
+     462 SOLV 116  TIP4 H1   HT     0.556400        1.0080           0
+     463 SOLV 116  TIP4 H2   HT     0.556400        1.0080           0
+     464 SOLV 116  TIP4 OM   LP    -1.112800        0.0000           0
+     465 SOLV 117  TIP4 OH2  OT     0.000000       15.9994           0
+     466 SOLV 117  TIP4 H1   HT     0.556400        1.0080           0
+     467 SOLV 117  TIP4 H2   HT     0.556400        1.0080           0
+     468 SOLV 117  TIP4 OM   LP    -1.112800        0.0000           0
+     469 SOLV 118  TIP4 OH2  OT     0.000000       15.9994           0
+     470 SOLV 118  TIP4 H1   HT     0.556400        1.0080           0
+     471 SOLV 118  TIP4 H2   HT     0.556400        1.0080           0
+     472 SOLV 118  TIP4 OM   LP    -1.112800        0.0000           0
+     473 SOLV 119  TIP4 OH2  OT     0.000000       15.9994           0
+     474 SOLV 119  TIP4 H1   HT     0.556400        1.0080           0
+     475 SOLV 119  TIP4 H2   HT     0.556400        1.0080           0
+     476 SOLV 119  TIP4 OM   LP    -1.112800        0.0000           0
+     477 SOLV 120  TIP4 OH2  OT     0.000000       15.9994           0
+     478 SOLV 120  TIP4 H1   HT     0.556400        1.0080           0
+     479 SOLV 120  TIP4 H2   HT     0.556400        1.0080           0
+     480 SOLV 120  TIP4 OM   LP    -1.112800        0.0000           0
+     481 SOLV 121  TIP4 OH2  OT     0.000000       15.9994           0
+     482 SOLV 121  TIP4 H1   HT     0.556400        1.0080           0
+     483 SOLV 121  TIP4 H2   HT     0.556400        1.0080           0
+     484 SOLV 121  TIP4 OM   LP    -1.112800        0.0000           0
+     485 SOLV 122  TIP4 OH2  OT     0.000000       15.9994           0
+     486 SOLV 122  TIP4 H1   HT     0.556400        1.0080           0
+     487 SOLV 122  TIP4 H2   HT     0.556400        1.0080           0
+     488 SOLV 122  TIP4 OM   LP    -1.112800        0.0000           0
+     489 SOLV 123  TIP4 OH2  OT     0.000000       15.9994           0
+     490 SOLV 123  TIP4 H1   HT     0.556400        1.0080           0
+     491 SOLV 123  TIP4 H2   HT     0.556400        1.0080           0
+     492 SOLV 123  TIP4 OM   LP    -1.112800        0.0000           0
+     493 SOLV 124  TIP4 OH2  OT     0.000000       15.9994           0
+     494 SOLV 124  TIP4 H1   HT     0.556400        1.0080           0
+     495 SOLV 124  TIP4 H2   HT     0.556400        1.0080           0
+     496 SOLV 124  TIP4 OM   LP    -1.112800        0.0000           0
+     497 SOLV 125  TIP4 OH2  OT     0.000000       15.9994           0
+     498 SOLV 125  TIP4 H1   HT     0.556400        1.0080           0
+     499 SOLV 125  TIP4 H2   HT     0.556400        1.0080           0
+     500 SOLV 125  TIP4 OM   LP    -1.112800        0.0000           0
+     501 SOLV 126  TIP4 OH2  OT     0.000000       15.9994           0
+     502 SOLV 126  TIP4 H1   HT     0.556400        1.0080           0
+     503 SOLV 126  TIP4 H2   HT     0.556400        1.0080           0
+     504 SOLV 126  TIP4 OM   LP    -1.112800        0.0000           0
+     505 SOLV 127  TIP4 OH2  OT     0.000000       15.9994           0
+     506 SOLV 127  TIP4 H1   HT     0.556400        1.0080           0
+     507 SOLV 127  TIP4 H2   HT     0.556400        1.0080           0
+     508 SOLV 127  TIP4 OM   LP    -1.112800        0.0000           0
+     509 SOLV 128  TIP4 OH2  OT     0.000000       15.9994           0
+     510 SOLV 128  TIP4 H1   HT     0.556400        1.0080           0
+     511 SOLV 128  TIP4 H2   HT     0.556400        1.0080           0
+     512 SOLV 128  TIP4 OM   LP    -1.112800        0.0000           0
+     513 SOLV 129  TIP4 OH2  OT     0.000000       15.9994           0
+     514 SOLV 129  TIP4 H1   HT     0.556400        1.0080           0
+     515 SOLV 129  TIP4 H2   HT     0.556400        1.0080           0
+     516 SOLV 129  TIP4 OM   LP    -1.112800        0.0000           0
+     517 SOLV 130  TIP4 OH2  OT     0.000000       15.9994           0
+     518 SOLV 130  TIP4 H1   HT     0.556400        1.0080           0
+     519 SOLV 130  TIP4 H2   HT     0.556400        1.0080           0
+     520 SOLV 130  TIP4 OM   LP    -1.112800        0.0000           0
+     521 SOLV 131  TIP4 OH2  OT     0.000000       15.9994           0
+     522 SOLV 131  TIP4 H1   HT     0.556400        1.0080           0
+     523 SOLV 131  TIP4 H2   HT     0.556400        1.0080           0
+     524 SOLV 131  TIP4 OM   LP    -1.112800        0.0000           0
+     525 SOLV 132  TIP4 OH2  OT     0.000000       15.9994           0
+     526 SOLV 132  TIP4 H1   HT     0.556400        1.0080           0
+     527 SOLV 132  TIP4 H2   HT     0.556400        1.0080           0
+     528 SOLV 132  TIP4 OM   LP    -1.112800        0.0000           0
+     529 SOLV 133  TIP4 OH2  OT     0.000000       15.9994           0
+     530 SOLV 133  TIP4 H1   HT     0.556400        1.0080           0
+     531 SOLV 133  TIP4 H2   HT     0.556400        1.0080           0
+     532 SOLV 133  TIP4 OM   LP    -1.112800        0.0000           0
+     533 SOLV 134  TIP4 OH2  OT     0.000000       15.9994           0
+     534 SOLV 134  TIP4 H1   HT     0.556400        1.0080           0
+     535 SOLV 134  TIP4 H2   HT     0.556400        1.0080           0
+     536 SOLV 134  TIP4 OM   LP    -1.112800        0.0000           0
+     537 SOLV 135  TIP4 OH2  OT     0.000000       15.9994           0
+     538 SOLV 135  TIP4 H1   HT     0.556400        1.0080           0
+     539 SOLV 135  TIP4 H2   HT     0.556400        1.0080           0
+     540 SOLV 135  TIP4 OM   LP    -1.112800        0.0000           0
+     541 SOLV 136  TIP4 OH2  OT     0.000000       15.9994           0
+     542 SOLV 136  TIP4 H1   HT     0.556400        1.0080           0
+     543 SOLV 136  TIP4 H2   HT     0.556400        1.0080           0
+     544 SOLV 136  TIP4 OM   LP    -1.112800        0.0000           0
+     545 SOLV 137  TIP4 OH2  OT     0.000000       15.9994           0
+     546 SOLV 137  TIP4 H1   HT     0.556400        1.0080           0
+     547 SOLV 137  TIP4 H2   HT     0.556400        1.0080           0
+     548 SOLV 137  TIP4 OM   LP    -1.112800        0.0000           0
+     549 SOLV 138  TIP4 OH2  OT     0.000000       15.9994           0
+     550 SOLV 138  TIP4 H1   HT     0.556400        1.0080           0
+     551 SOLV 138  TIP4 H2   HT     0.556400        1.0080           0
+     552 SOLV 138  TIP4 OM   LP    -1.112800        0.0000           0
+     553 SOLV 139  TIP4 OH2  OT     0.000000       15.9994           0
+     554 SOLV 139  TIP4 H1   HT     0.556400        1.0080           0
+     555 SOLV 139  TIP4 H2   HT     0.556400        1.0080           0
+     556 SOLV 139  TIP4 OM   LP    -1.112800        0.0000           0
+     557 SOLV 140  TIP4 OH2  OT     0.000000       15.9994           0
+     558 SOLV 140  TIP4 H1   HT     0.556400        1.0080           0
+     559 SOLV 140  TIP4 H2   HT     0.556400        1.0080           0
+     560 SOLV 140  TIP4 OM   LP    -1.112800        0.0000           0
+     561 SOLV 141  TIP4 OH2  OT     0.000000       15.9994           0
+     562 SOLV 141  TIP4 H1   HT     0.556400        1.0080           0
+     563 SOLV 141  TIP4 H2   HT     0.556400        1.0080           0
+     564 SOLV 141  TIP4 OM   LP    -1.112800        0.0000           0
+     565 SOLV 142  TIP4 OH2  OT     0.000000       15.9994           0
+     566 SOLV 142  TIP4 H1   HT     0.556400        1.0080           0
+     567 SOLV 142  TIP4 H2   HT     0.556400        1.0080           0
+     568 SOLV 142  TIP4 OM   LP    -1.112800        0.0000           0
+     569 SOLV 143  TIP4 OH2  OT     0.000000       15.9994           0
+     570 SOLV 143  TIP4 H1   HT     0.556400        1.0080           0
+     571 SOLV 143  TIP4 H2   HT     0.556400        1.0080           0
+     572 SOLV 143  TIP4 OM   LP    -1.112800        0.0000           0
+     573 SOLV 144  TIP4 OH2  OT     0.000000       15.9994           0
+     574 SOLV 144  TIP4 H1   HT     0.556400        1.0080           0
+     575 SOLV 144  TIP4 H2   HT     0.556400        1.0080           0
+     576 SOLV 144  TIP4 OM   LP    -1.112800        0.0000           0
+     577 SOLV 145  TIP4 OH2  OT     0.000000       15.9994           0
+     578 SOLV 145  TIP4 H1   HT     0.556400        1.0080           0
+     579 SOLV 145  TIP4 H2   HT     0.556400        1.0080           0
+     580 SOLV 145  TIP4 OM   LP    -1.112800        0.0000           0
+     581 SOLV 146  TIP4 OH2  OT     0.000000       15.9994           0
+     582 SOLV 146  TIP4 H1   HT     0.556400        1.0080           0
+     583 SOLV 146  TIP4 H2   HT     0.556400        1.0080           0
+     584 SOLV 146  TIP4 OM   LP    -1.112800        0.0000           0
+     585 SOLV 147  TIP4 OH2  OT     0.000000       15.9994           0
+     586 SOLV 147  TIP4 H1   HT     0.556400        1.0080           0
+     587 SOLV 147  TIP4 H2   HT     0.556400        1.0080           0
+     588 SOLV 147  TIP4 OM   LP    -1.112800        0.0000           0
+     589 SOLV 148  TIP4 OH2  OT     0.000000       15.9994           0
+     590 SOLV 148  TIP4 H1   HT     0.556400        1.0080           0
+     591 SOLV 148  TIP4 H2   HT     0.556400        1.0080           0
+     592 SOLV 148  TIP4 OM   LP    -1.112800        0.0000           0
+     593 SOLV 149  TIP4 OH2  OT     0.000000       15.9994           0
+     594 SOLV 149  TIP4 H1   HT     0.556400        1.0080           0
+     595 SOLV 149  TIP4 H2   HT     0.556400        1.0080           0
+     596 SOLV 149  TIP4 OM   LP    -1.112800        0.0000           0
+     597 SOLV 150  TIP4 OH2  OT     0.000000       15.9994           0
+     598 SOLV 150  TIP4 H1   HT     0.556400        1.0080           0
+     599 SOLV 150  TIP4 H2   HT     0.556400        1.0080           0
+     600 SOLV 150  TIP4 OM   LP    -1.112800        0.0000           0
+     601 SOLV 151  TIP4 OH2  OT     0.000000       15.9994           0
+     602 SOLV 151  TIP4 H1   HT     0.556400        1.0080           0
+     603 SOLV 151  TIP4 H2   HT     0.556400        1.0080           0
+     604 SOLV 151  TIP4 OM   LP    -1.112800        0.0000           0
+     605 SOLV 152  TIP4 OH2  OT     0.000000       15.9994           0
+     606 SOLV 152  TIP4 H1   HT     0.556400        1.0080           0
+     607 SOLV 152  TIP4 H2   HT     0.556400        1.0080           0
+     608 SOLV 152  TIP4 OM   LP    -1.112800        0.0000           0
+     609 SOLV 153  TIP4 OH2  OT     0.000000       15.9994           0
+     610 SOLV 153  TIP4 H1   HT     0.556400        1.0080           0
+     611 SOLV 153  TIP4 H2   HT     0.556400        1.0080           0
+     612 SOLV 153  TIP4 OM   LP    -1.112800        0.0000           0
+     613 SOLV 154  TIP4 OH2  OT     0.000000       15.9994           0
+     614 SOLV 154  TIP4 H1   HT     0.556400        1.0080           0
+     615 SOLV 154  TIP4 H2   HT     0.556400        1.0080           0
+     616 SOLV 154  TIP4 OM   LP    -1.112800        0.0000           0
+     617 SOLV 155  TIP4 OH2  OT     0.000000       15.9994           0
+     618 SOLV 155  TIP4 H1   HT     0.556400        1.0080           0
+     619 SOLV 155  TIP4 H2   HT     0.556400        1.0080           0
+     620 SOLV 155  TIP4 OM   LP    -1.112800        0.0000           0
+     621 SOLV 156  TIP4 OH2  OT     0.000000       15.9994           0
+     622 SOLV 156  TIP4 H1   HT     0.556400        1.0080           0
+     623 SOLV 156  TIP4 H2   HT     0.556400        1.0080           0
+     624 SOLV 156  TIP4 OM   LP    -1.112800        0.0000           0
+     625 SOLV 157  TIP4 OH2  OT     0.000000       15.9994           0
+     626 SOLV 157  TIP4 H1   HT     0.556400        1.0080           0
+     627 SOLV 157  TIP4 H2   HT     0.556400        1.0080           0
+     628 SOLV 157  TIP4 OM   LP    -1.112800        0.0000           0
+     629 SOLV 158  TIP4 OH2  OT     0.000000       15.9994           0
+     630 SOLV 158  TIP4 H1   HT     0.556400        1.0080           0
+     631 SOLV 158  TIP4 H2   HT     0.556400        1.0080           0
+     632 SOLV 158  TIP4 OM   LP    -1.112800        0.0000           0
+     633 SOLV 159  TIP4 OH2  OT     0.000000       15.9994           0
+     634 SOLV 159  TIP4 H1   HT     0.556400        1.0080           0
+     635 SOLV 159  TIP4 H2   HT     0.556400        1.0080           0
+     636 SOLV 159  TIP4 OM   LP    -1.112800        0.0000           0
+     637 SOLV 160  TIP4 OH2  OT     0.000000       15.9994           0
+     638 SOLV 160  TIP4 H1   HT     0.556400        1.0080           0
+     639 SOLV 160  TIP4 H2   HT     0.556400        1.0080           0
+     640 SOLV 160  TIP4 OM   LP    -1.112800        0.0000           0
+     641 SOLV 161  TIP4 OH2  OT     0.000000       15.9994           0
+     642 SOLV 161  TIP4 H1   HT     0.556400        1.0080           0
+     643 SOLV 161  TIP4 H2   HT     0.556400        1.0080           0
+     644 SOLV 161  TIP4 OM   LP    -1.112800        0.0000           0
+     645 SOLV 162  TIP4 OH2  OT     0.000000       15.9994           0
+     646 SOLV 162  TIP4 H1   HT     0.556400        1.0080           0
+     647 SOLV 162  TIP4 H2   HT     0.556400        1.0080           0
+     648 SOLV 162  TIP4 OM   LP    -1.112800        0.0000           0
+     649 SOLV 163  TIP4 OH2  OT     0.000000       15.9994           0
+     650 SOLV 163  TIP4 H1   HT     0.556400        1.0080           0
+     651 SOLV 163  TIP4 H2   HT     0.556400        1.0080           0
+     652 SOLV 163  TIP4 OM   LP    -1.112800        0.0000           0
+     653 SOLV 164  TIP4 OH2  OT     0.000000       15.9994           0
+     654 SOLV 164  TIP4 H1   HT     0.556400        1.0080           0
+     655 SOLV 164  TIP4 H2   HT     0.556400        1.0080           0
+     656 SOLV 164  TIP4 OM   LP    -1.112800        0.0000           0
+     657 SOLV 165  TIP4 OH2  OT     0.000000       15.9994           0
+     658 SOLV 165  TIP4 H1   HT     0.556400        1.0080           0
+     659 SOLV 165  TIP4 H2   HT     0.556400        1.0080           0
+     660 SOLV 165  TIP4 OM   LP    -1.112800        0.0000           0
+     661 SOLV 166  TIP4 OH2  OT     0.000000       15.9994           0
+     662 SOLV 166  TIP4 H1   HT     0.556400        1.0080           0
+     663 SOLV 166  TIP4 H2   HT     0.556400        1.0080           0
+     664 SOLV 166  TIP4 OM   LP    -1.112800        0.0000           0
+     665 SOLV 167  TIP4 OH2  OT     0.000000       15.9994           0
+     666 SOLV 167  TIP4 H1   HT     0.556400        1.0080           0
+     667 SOLV 167  TIP4 H2   HT     0.556400        1.0080           0
+     668 SOLV 167  TIP4 OM   LP    -1.112800        0.0000           0
+     669 SOLV 168  TIP4 OH2  OT     0.000000       15.9994           0
+     670 SOLV 168  TIP4 H1   HT     0.556400        1.0080           0
+     671 SOLV 168  TIP4 H2   HT     0.556400        1.0080           0
+     672 SOLV 168  TIP4 OM   LP    -1.112800        0.0000           0
+     673 SOLV 169  TIP4 OH2  OT     0.000000       15.9994           0
+     674 SOLV 169  TIP4 H1   HT     0.556400        1.0080           0
+     675 SOLV 169  TIP4 H2   HT     0.556400        1.0080           0
+     676 SOLV 169  TIP4 OM   LP    -1.112800        0.0000           0
+     677 SOLV 170  TIP4 OH2  OT     0.000000       15.9994           0
+     678 SOLV 170  TIP4 H1   HT     0.556400        1.0080           0
+     679 SOLV 170  TIP4 H2   HT     0.556400        1.0080           0
+     680 SOLV 170  TIP4 OM   LP    -1.112800        0.0000           0
+     681 SOLV 171  TIP4 OH2  OT     0.000000       15.9994           0
+     682 SOLV 171  TIP4 H1   HT     0.556400        1.0080           0
+     683 SOLV 171  TIP4 H2   HT     0.556400        1.0080           0
+     684 SOLV 171  TIP4 OM   LP    -1.112800        0.0000           0
+     685 SOLV 172  TIP4 OH2  OT     0.000000       15.9994           0
+     686 SOLV 172  TIP4 H1   HT     0.556400        1.0080           0
+     687 SOLV 172  TIP4 H2   HT     0.556400        1.0080           0
+     688 SOLV 172  TIP4 OM   LP    -1.112800        0.0000           0
+     689 SOLV 173  TIP4 OH2  OT     0.000000       15.9994           0
+     690 SOLV 173  TIP4 H1   HT     0.556400        1.0080           0
+     691 SOLV 173  TIP4 H2   HT     0.556400        1.0080           0
+     692 SOLV 173  TIP4 OM   LP    -1.112800        0.0000           0
+     693 SOLV 174  TIP4 OH2  OT     0.000000       15.9994           0
+     694 SOLV 174  TIP4 H1   HT     0.556400        1.0080           0
+     695 SOLV 174  TIP4 H2   HT     0.556400        1.0080           0
+     696 SOLV 174  TIP4 OM   LP    -1.112800        0.0000           0
+     697 SOLV 175  TIP4 OH2  OT     0.000000       15.9994           0
+     698 SOLV 175  TIP4 H1   HT     0.556400        1.0080           0
+     699 SOLV 175  TIP4 H2   HT     0.556400        1.0080           0
+     700 SOLV 175  TIP4 OM   LP    -1.112800        0.0000           0
+     701 SOLV 176  TIP4 OH2  OT     0.000000       15.9994           0
+     702 SOLV 176  TIP4 H1   HT     0.556400        1.0080           0
+     703 SOLV 176  TIP4 H2   HT     0.556400        1.0080           0
+     704 SOLV 176  TIP4 OM   LP    -1.112800        0.0000           0
+     705 SOLV 177  TIP4 OH2  OT     0.000000       15.9994           0
+     706 SOLV 177  TIP4 H1   HT     0.556400        1.0080           0
+     707 SOLV 177  TIP4 H2   HT     0.556400        1.0080           0
+     708 SOLV 177  TIP4 OM   LP    -1.112800        0.0000           0
+     709 SOLV 178  TIP4 OH2  OT     0.000000       15.9994           0
+     710 SOLV 178  TIP4 H1   HT     0.556400        1.0080           0
+     711 SOLV 178  TIP4 H2   HT     0.556400        1.0080           0
+     712 SOLV 178  TIP4 OM   LP    -1.112800        0.0000           0
+     713 SOLV 179  TIP4 OH2  OT     0.000000       15.9994           0
+     714 SOLV 179  TIP4 H1   HT     0.556400        1.0080           0
+     715 SOLV 179  TIP4 H2   HT     0.556400        1.0080           0
+     716 SOLV 179  TIP4 OM   LP    -1.112800        0.0000           0
+     717 SOLV 180  TIP4 OH2  OT     0.000000       15.9994           0
+     718 SOLV 180  TIP4 H1   HT     0.556400        1.0080           0
+     719 SOLV 180  TIP4 H2   HT     0.556400        1.0080           0
+     720 SOLV 180  TIP4 OM   LP    -1.112800        0.0000           0
+     721 SOLV 181  TIP4 OH2  OT     0.000000       15.9994           0
+     722 SOLV 181  TIP4 H1   HT     0.556400        1.0080           0
+     723 SOLV 181  TIP4 H2   HT     0.556400        1.0080           0
+     724 SOLV 181  TIP4 OM   LP    -1.112800        0.0000           0
+     725 SOLV 182  TIP4 OH2  OT     0.000000       15.9994           0
+     726 SOLV 182  TIP4 H1   HT     0.556400        1.0080           0
+     727 SOLV 182  TIP4 H2   HT     0.556400        1.0080           0
+     728 SOLV 182  TIP4 OM   LP    -1.112800        0.0000           0
+     729 SOLV 183  TIP4 OH2  OT     0.000000       15.9994           0
+     730 SOLV 183  TIP4 H1   HT     0.556400        1.0080           0
+     731 SOLV 183  TIP4 H2   HT     0.556400        1.0080           0
+     732 SOLV 183  TIP4 OM   LP    -1.112800        0.0000           0
+     733 SOLV 184  TIP4 OH2  OT     0.000000       15.9994           0
+     734 SOLV 184  TIP4 H1   HT     0.556400        1.0080           0
+     735 SOLV 184  TIP4 H2   HT     0.556400        1.0080           0
+     736 SOLV 184  TIP4 OM   LP    -1.112800        0.0000           0
+     737 SOLV 185  TIP4 OH2  OT     0.000000       15.9994           0
+     738 SOLV 185  TIP4 H1   HT     0.556400        1.0080           0
+     739 SOLV 185  TIP4 H2   HT     0.556400        1.0080           0
+     740 SOLV 185  TIP4 OM   LP    -1.112800        0.0000           0
+     741 SOLV 186  TIP4 OH2  OT     0.000000       15.9994           0
+     742 SOLV 186  TIP4 H1   HT     0.556400        1.0080           0
+     743 SOLV 186  TIP4 H2   HT     0.556400        1.0080           0
+     744 SOLV 186  TIP4 OM   LP    -1.112800        0.0000           0
+     745 SOLV 187  TIP4 OH2  OT     0.000000       15.9994           0
+     746 SOLV 187  TIP4 H1   HT     0.556400        1.0080           0
+     747 SOLV 187  TIP4 H2   HT     0.556400        1.0080           0
+     748 SOLV 187  TIP4 OM   LP    -1.112800        0.0000           0
+     749 SOLV 188  TIP4 OH2  OT     0.000000       15.9994           0
+     750 SOLV 188  TIP4 H1   HT     0.556400        1.0080           0
+     751 SOLV 188  TIP4 H2   HT     0.556400        1.0080           0
+     752 SOLV 188  TIP4 OM   LP    -1.112800        0.0000           0
+     753 SOLV 189  TIP4 OH2  OT     0.000000       15.9994           0
+     754 SOLV 189  TIP4 H1   HT     0.556400        1.0080           0
+     755 SOLV 189  TIP4 H2   HT     0.556400        1.0080           0
+     756 SOLV 189  TIP4 OM   LP    -1.112800        0.0000           0
+     757 SOLV 190  TIP4 OH2  OT     0.000000       15.9994           0
+     758 SOLV 190  TIP4 H1   HT     0.556400        1.0080           0
+     759 SOLV 190  TIP4 H2   HT     0.556400        1.0080           0
+     760 SOLV 190  TIP4 OM   LP    -1.112800        0.0000           0
+     761 SOLV 191  TIP4 OH2  OT     0.000000       15.9994           0
+     762 SOLV 191  TIP4 H1   HT     0.556400        1.0080           0
+     763 SOLV 191  TIP4 H2   HT     0.556400        1.0080           0
+     764 SOLV 191  TIP4 OM   LP    -1.112800        0.0000           0
+     765 SOLV 192  TIP4 OH2  OT     0.000000       15.9994           0
+     766 SOLV 192  TIP4 H1   HT     0.556400        1.0080           0
+     767 SOLV 192  TIP4 H2   HT     0.556400        1.0080           0
+     768 SOLV 192  TIP4 OM   LP    -1.112800        0.0000           0
+     769 SOLV 193  TIP4 OH2  OT     0.000000       15.9994           0
+     770 SOLV 193  TIP4 H1   HT     0.556400        1.0080           0
+     771 SOLV 193  TIP4 H2   HT     0.556400        1.0080           0
+     772 SOLV 193  TIP4 OM   LP    -1.112800        0.0000           0
+     773 SOLV 194  TIP4 OH2  OT     0.000000       15.9994           0
+     774 SOLV 194  TIP4 H1   HT     0.556400        1.0080           0
+     775 SOLV 194  TIP4 H2   HT     0.556400        1.0080           0
+     776 SOLV 194  TIP4 OM   LP    -1.112800        0.0000           0
+     777 SOLV 195  TIP4 OH2  OT     0.000000       15.9994           0
+     778 SOLV 195  TIP4 H1   HT     0.556400        1.0080           0
+     779 SOLV 195  TIP4 H2   HT     0.556400        1.0080           0
+     780 SOLV 195  TIP4 OM   LP    -1.112800        0.0000           0
+     781 SOLV 196  TIP4 OH2  OT     0.000000       15.9994           0
+     782 SOLV 196  TIP4 H1   HT     0.556400        1.0080           0
+     783 SOLV 196  TIP4 H2   HT     0.556400        1.0080           0
+     784 SOLV 196  TIP4 OM   LP    -1.112800        0.0000           0
+     785 SOLV 197  TIP4 OH2  OT     0.000000       15.9994           0
+     786 SOLV 197  TIP4 H1   HT     0.556400        1.0080           0
+     787 SOLV 197  TIP4 H2   HT     0.556400        1.0080           0
+     788 SOLV 197  TIP4 OM   LP    -1.112800        0.0000           0
+     789 SOLV 198  TIP4 OH2  OT     0.000000       15.9994           0
+     790 SOLV 198  TIP4 H1   HT     0.556400        1.0080           0
+     791 SOLV 198  TIP4 H2   HT     0.556400        1.0080           0
+     792 SOLV 198  TIP4 OM   LP    -1.112800        0.0000           0
+     793 SOLV 199  TIP4 OH2  OT     0.000000       15.9994           0
+     794 SOLV 199  TIP4 H1   HT     0.556400        1.0080           0
+     795 SOLV 199  TIP4 H2   HT     0.556400        1.0080           0
+     796 SOLV 199  TIP4 OM   LP    -1.112800        0.0000           0
+     797 SOLV 200  TIP4 OH2  OT     0.000000       15.9994           0
+     798 SOLV 200  TIP4 H1   HT     0.556400        1.0080           0
+     799 SOLV 200  TIP4 H2   HT     0.556400        1.0080           0
+     800 SOLV 200  TIP4 OM   LP    -1.112800        0.0000           0
+     801 SOLV 201  TIP4 OH2  OT     0.000000       15.9994           0
+     802 SOLV 201  TIP4 H1   HT     0.556400        1.0080           0
+     803 SOLV 201  TIP4 H2   HT     0.556400        1.0080           0
+     804 SOLV 201  TIP4 OM   LP    -1.112800        0.0000           0
+     805 SOLV 202  TIP4 OH2  OT     0.000000       15.9994           0
+     806 SOLV 202  TIP4 H1   HT     0.556400        1.0080           0
+     807 SOLV 202  TIP4 H2   HT     0.556400        1.0080           0
+     808 SOLV 202  TIP4 OM   LP    -1.112800        0.0000           0
+     809 SOLV 203  TIP4 OH2  OT     0.000000       15.9994           0
+     810 SOLV 203  TIP4 H1   HT     0.556400        1.0080           0
+     811 SOLV 203  TIP4 H2   HT     0.556400        1.0080           0
+     812 SOLV 203  TIP4 OM   LP    -1.112800        0.0000           0
+     813 SOLV 204  TIP4 OH2  OT     0.000000       15.9994           0
+     814 SOLV 204  TIP4 H1   HT     0.556400        1.0080           0
+     815 SOLV 204  TIP4 H2   HT     0.556400        1.0080           0
+     816 SOLV 204  TIP4 OM   LP    -1.112800        0.0000           0
+     817 SOLV 205  TIP4 OH2  OT     0.000000       15.9994           0
+     818 SOLV 205  TIP4 H1   HT     0.556400        1.0080           0
+     819 SOLV 205  TIP4 H2   HT     0.556400        1.0080           0
+     820 SOLV 205  TIP4 OM   LP    -1.112800        0.0000           0
+     821 SOLV 206  TIP4 OH2  OT     0.000000       15.9994           0
+     822 SOLV 206  TIP4 H1   HT     0.556400        1.0080           0
+     823 SOLV 206  TIP4 H2   HT     0.556400        1.0080           0
+     824 SOLV 206  TIP4 OM   LP    -1.112800        0.0000           0
+     825 SOLV 207  TIP4 OH2  OT     0.000000       15.9994           0
+     826 SOLV 207  TIP4 H1   HT     0.556400        1.0080           0
+     827 SOLV 207  TIP4 H2   HT     0.556400        1.0080           0
+     828 SOLV 207  TIP4 OM   LP    -1.112800        0.0000           0
+     829 SOLV 208  TIP4 OH2  OT     0.000000       15.9994           0
+     830 SOLV 208  TIP4 H1   HT     0.556400        1.0080           0
+     831 SOLV 208  TIP4 H2   HT     0.556400        1.0080           0
+     832 SOLV 208  TIP4 OM   LP    -1.112800        0.0000           0
+     833 SOLV 209  TIP4 OH2  OT     0.000000       15.9994           0
+     834 SOLV 209  TIP4 H1   HT     0.556400        1.0080           0
+     835 SOLV 209  TIP4 H2   HT     0.556400        1.0080           0
+     836 SOLV 209  TIP4 OM   LP    -1.112800        0.0000           0
+     837 SOLV 210  TIP4 OH2  OT     0.000000       15.9994           0
+     838 SOLV 210  TIP4 H1   HT     0.556400        1.0080           0
+     839 SOLV 210  TIP4 H2   HT     0.556400        1.0080           0
+     840 SOLV 210  TIP4 OM   LP    -1.112800        0.0000           0
+     841 SOLV 211  TIP4 OH2  OT     0.000000       15.9994           0
+     842 SOLV 211  TIP4 H1   HT     0.556400        1.0080           0
+     843 SOLV 211  TIP4 H2   HT     0.556400        1.0080           0
+     844 SOLV 211  TIP4 OM   LP    -1.112800        0.0000           0
+     845 SOLV 212  TIP4 OH2  OT     0.000000       15.9994           0
+     846 SOLV 212  TIP4 H1   HT     0.556400        1.0080           0
+     847 SOLV 212  TIP4 H2   HT     0.556400        1.0080           0
+     848 SOLV 212  TIP4 OM   LP    -1.112800        0.0000           0
+     849 SOLV 213  TIP4 OH2  OT     0.000000       15.9994           0
+     850 SOLV 213  TIP4 H1   HT     0.556400        1.0080           0
+     851 SOLV 213  TIP4 H2   HT     0.556400        1.0080           0
+     852 SOLV 213  TIP4 OM   LP    -1.112800        0.0000           0
+     853 SOLV 214  TIP4 OH2  OT     0.000000       15.9994           0
+     854 SOLV 214  TIP4 H1   HT     0.556400        1.0080           0
+     855 SOLV 214  TIP4 H2   HT     0.556400        1.0080           0
+     856 SOLV 214  TIP4 OM   LP    -1.112800        0.0000           0
+     857 SOLV 215  TIP4 OH2  OT     0.000000       15.9994           0
+     858 SOLV 215  TIP4 H1   HT     0.556400        1.0080           0
+     859 SOLV 215  TIP4 H2   HT     0.556400        1.0080           0
+     860 SOLV 215  TIP4 OM   LP    -1.112800        0.0000           0
+     861 SOLV 216  TIP4 OH2  OT     0.000000       15.9994           0
+     862 SOLV 216  TIP4 H1   HT     0.556400        1.0080           0
+     863 SOLV 216  TIP4 H2   HT     0.556400        1.0080           0
+     864 SOLV 216  TIP4 OM   LP    -1.112800        0.0000           0
+     865 SOLV 217  TIP4 OH2  OT     0.000000       15.9994           0
+     866 SOLV 217  TIP4 H1   HT     0.556400        1.0080           0
+     867 SOLV 217  TIP4 H2   HT     0.556400        1.0080           0
+     868 SOLV 217  TIP4 OM   LP    -1.112800        0.0000           0
+     869 SOLV 218  TIP4 OH2  OT     0.000000       15.9994           0
+     870 SOLV 218  TIP4 H1   HT     0.556400        1.0080           0
+     871 SOLV 218  TIP4 H2   HT     0.556400        1.0080           0
+     872 SOLV 218  TIP4 OM   LP    -1.112800        0.0000           0
+     873 SOLV 219  TIP4 OH2  OT     0.000000       15.9994           0
+     874 SOLV 219  TIP4 H1   HT     0.556400        1.0080           0
+     875 SOLV 219  TIP4 H2   HT     0.556400        1.0080           0
+     876 SOLV 219  TIP4 OM   LP    -1.112800        0.0000           0
+     877 SOLV 220  TIP4 OH2  OT     0.000000       15.9994           0
+     878 SOLV 220  TIP4 H1   HT     0.556400        1.0080           0
+     879 SOLV 220  TIP4 H2   HT     0.556400        1.0080           0
+     880 SOLV 220  TIP4 OM   LP    -1.112800        0.0000           0
+     881 SOLV 221  TIP4 OH2  OT     0.000000       15.9994           0
+     882 SOLV 221  TIP4 H1   HT     0.556400        1.0080           0
+     883 SOLV 221  TIP4 H2   HT     0.556400        1.0080           0
+     884 SOLV 221  TIP4 OM   LP    -1.112800        0.0000           0
+     885 SOLV 222  TIP4 OH2  OT     0.000000       15.9994           0
+     886 SOLV 222  TIP4 H1   HT     0.556400        1.0080           0
+     887 SOLV 222  TIP4 H2   HT     0.556400        1.0080           0
+     888 SOLV 222  TIP4 OM   LP    -1.112800        0.0000           0
+     889 SOLV 223  TIP4 OH2  OT     0.000000       15.9994           0
+     890 SOLV 223  TIP4 H1   HT     0.556400        1.0080           0
+     891 SOLV 223  TIP4 H2   HT     0.556400        1.0080           0
+     892 SOLV 223  TIP4 OM   LP    -1.112800        0.0000           0
+     893 SOLV 224  TIP4 OH2  OT     0.000000       15.9994           0
+     894 SOLV 224  TIP4 H1   HT     0.556400        1.0080           0
+     895 SOLV 224  TIP4 H2   HT     0.556400        1.0080           0
+     896 SOLV 224  TIP4 OM   LP    -1.112800        0.0000           0
+     897 SOLV 225  TIP4 OH2  OT     0.000000       15.9994           0
+     898 SOLV 225  TIP4 H1   HT     0.556400        1.0080           0
+     899 SOLV 225  TIP4 H2   HT     0.556400        1.0080           0
+     900 SOLV 225  TIP4 OM   LP    -1.112800        0.0000           0
+     901 SOLV 226  TIP4 OH2  OT     0.000000       15.9994           0
+     902 SOLV 226  TIP4 H1   HT     0.556400        1.0080           0
+     903 SOLV 226  TIP4 H2   HT     0.556400        1.0080           0
+     904 SOLV 226  TIP4 OM   LP    -1.112800        0.0000           0
+     905 SOLV 227  TIP4 OH2  OT     0.000000       15.9994           0
+     906 SOLV 227  TIP4 H1   HT     0.556400        1.0080           0
+     907 SOLV 227  TIP4 H2   HT     0.556400        1.0080           0
+     908 SOLV 227  TIP4 OM   LP    -1.112800        0.0000           0
+     909 SOLV 228  TIP4 OH2  OT     0.000000       15.9994           0
+     910 SOLV 228  TIP4 H1   HT     0.556400        1.0080           0
+     911 SOLV 228  TIP4 H2   HT     0.556400        1.0080           0
+     912 SOLV 228  TIP4 OM   LP    -1.112800        0.0000           0
+     913 SOLV 229  TIP4 OH2  OT     0.000000       15.9994           0
+     914 SOLV 229  TIP4 H1   HT     0.556400        1.0080           0
+     915 SOLV 229  TIP4 H2   HT     0.556400        1.0080           0
+     916 SOLV 229  TIP4 OM   LP    -1.112800        0.0000           0
+     917 SOLV 230  TIP4 OH2  OT     0.000000       15.9994           0
+     918 SOLV 230  TIP4 H1   HT     0.556400        1.0080           0
+     919 SOLV 230  TIP4 H2   HT     0.556400        1.0080           0
+     920 SOLV 230  TIP4 OM   LP    -1.112800        0.0000           0
+     921 SOLV 231  TIP4 OH2  OT     0.000000       15.9994           0
+     922 SOLV 231  TIP4 H1   HT     0.556400        1.0080           0
+     923 SOLV 231  TIP4 H2   HT     0.556400        1.0080           0
+     924 SOLV 231  TIP4 OM   LP    -1.112800        0.0000           0
+     925 SOLV 232  TIP4 OH2  OT     0.000000       15.9994           0
+     926 SOLV 232  TIP4 H1   HT     0.556400        1.0080           0
+     927 SOLV 232  TIP4 H2   HT     0.556400        1.0080           0
+     928 SOLV 232  TIP4 OM   LP    -1.112800        0.0000           0
+     929 SOLV 233  TIP4 OH2  OT     0.000000       15.9994           0
+     930 SOLV 233  TIP4 H1   HT     0.556400        1.0080           0
+     931 SOLV 233  TIP4 H2   HT     0.556400        1.0080           0
+     932 SOLV 233  TIP4 OM   LP    -1.112800        0.0000           0
+     933 SOLV 234  TIP4 OH2  OT     0.000000       15.9994           0
+     934 SOLV 234  TIP4 H1   HT     0.556400        1.0080           0
+     935 SOLV 234  TIP4 H2   HT     0.556400        1.0080           0
+     936 SOLV 234  TIP4 OM   LP    -1.112800        0.0000           0
+     937 SOLV 235  TIP4 OH2  OT     0.000000       15.9994           0
+     938 SOLV 235  TIP4 H1   HT     0.556400        1.0080           0
+     939 SOLV 235  TIP4 H2   HT     0.556400        1.0080           0
+     940 SOLV 235  TIP4 OM   LP    -1.112800        0.0000           0
+     941 SOLV 236  TIP4 OH2  OT     0.000000       15.9994           0
+     942 SOLV 236  TIP4 H1   HT     0.556400        1.0080           0
+     943 SOLV 236  TIP4 H2   HT     0.556400        1.0080           0
+     944 SOLV 236  TIP4 OM   LP    -1.112800        0.0000           0
+     945 SOLV 237  TIP4 OH2  OT     0.000000       15.9994           0
+     946 SOLV 237  TIP4 H1   HT     0.556400        1.0080           0
+     947 SOLV 237  TIP4 H2   HT     0.556400        1.0080           0
+     948 SOLV 237  TIP4 OM   LP    -1.112800        0.0000           0
+     949 SOLV 238  TIP4 OH2  OT     0.000000       15.9994           0
+     950 SOLV 238  TIP4 H1   HT     0.556400        1.0080           0
+     951 SOLV 238  TIP4 H2   HT     0.556400        1.0080           0
+     952 SOLV 238  TIP4 OM   LP    -1.112800        0.0000           0
+     953 SOLV 239  TIP4 OH2  OT     0.000000       15.9994           0
+     954 SOLV 239  TIP4 H1   HT     0.556400        1.0080           0
+     955 SOLV 239  TIP4 H2   HT     0.556400        1.0080           0
+     956 SOLV 239  TIP4 OM   LP    -1.112800        0.0000           0
+     957 SOLV 240  TIP4 OH2  OT     0.000000       15.9994           0
+     958 SOLV 240  TIP4 H1   HT     0.556400        1.0080           0
+     959 SOLV 240  TIP4 H2   HT     0.556400        1.0080           0
+     960 SOLV 240  TIP4 OM   LP    -1.112800        0.0000           0
+     961 SOLV 241  TIP4 OH2  OT     0.000000       15.9994           0
+     962 SOLV 241  TIP4 H1   HT     0.556400        1.0080           0
+     963 SOLV 241  TIP4 H2   HT     0.556400        1.0080           0
+     964 SOLV 241  TIP4 OM   LP    -1.112800        0.0000           0
+     965 SOLV 242  TIP4 OH2  OT     0.000000       15.9994           0
+     966 SOLV 242  TIP4 H1   HT     0.556400        1.0080           0
+     967 SOLV 242  TIP4 H2   HT     0.556400        1.0080           0
+     968 SOLV 242  TIP4 OM   LP    -1.112800        0.0000           0
+     969 SOLV 243  TIP4 OH2  OT     0.000000       15.9994           0
+     970 SOLV 243  TIP4 H1   HT     0.556400        1.0080           0
+     971 SOLV 243  TIP4 H2   HT     0.556400        1.0080           0
+     972 SOLV 243  TIP4 OM   LP    -1.112800        0.0000           0
+     973 SOLV 244  TIP4 OH2  OT     0.000000       15.9994           0
+     974 SOLV 244  TIP4 H1   HT     0.556400        1.0080           0
+     975 SOLV 244  TIP4 H2   HT     0.556400        1.0080           0
+     976 SOLV 244  TIP4 OM   LP    -1.112800        0.0000           0
+     977 SOLV 245  TIP4 OH2  OT     0.000000       15.9994           0
+     978 SOLV 245  TIP4 H1   HT     0.556400        1.0080           0
+     979 SOLV 245  TIP4 H2   HT     0.556400        1.0080           0
+     980 SOLV 245  TIP4 OM   LP    -1.112800        0.0000           0
+     981 SOLV 246  TIP4 OH2  OT     0.000000       15.9994           0
+     982 SOLV 246  TIP4 H1   HT     0.556400        1.0080           0
+     983 SOLV 246  TIP4 H2   HT     0.556400        1.0080           0
+     984 SOLV 246  TIP4 OM   LP    -1.112800        0.0000           0
+     985 SOLV 247  TIP4 OH2  OT     0.000000       15.9994           0
+     986 SOLV 247  TIP4 H1   HT     0.556400        1.0080           0
+     987 SOLV 247  TIP4 H2   HT     0.556400        1.0080           0
+     988 SOLV 247  TIP4 OM   LP    -1.112800        0.0000           0
+     989 SOLV 248  TIP4 OH2  OT     0.000000       15.9994           0
+     990 SOLV 248  TIP4 H1   HT     0.556400        1.0080           0
+     991 SOLV 248  TIP4 H2   HT     0.556400        1.0080           0
+     992 SOLV 248  TIP4 OM   LP    -1.112800        0.0000           0
+     993 SOLV 249  TIP4 OH2  OT     0.000000       15.9994           0
+     994 SOLV 249  TIP4 H1   HT     0.556400        1.0080           0
+     995 SOLV 249  TIP4 H2   HT     0.556400        1.0080           0
+     996 SOLV 249  TIP4 OM   LP    -1.112800        0.0000           0
+     997 SOLV 250  TIP4 OH2  OT     0.000000       15.9994           0
+     998 SOLV 250  TIP4 H1   HT     0.556400        1.0080           0
+     999 SOLV 250  TIP4 H2   HT     0.556400        1.0080           0
+    1000 SOLV 250  TIP4 OM   LP    -1.112800        0.0000           0
+    1001 SOLV 251  TIP4 OH2  OT     0.000000       15.9994           0
+    1002 SOLV 251  TIP4 H1   HT     0.556400        1.0080           0
+    1003 SOLV 251  TIP4 H2   HT     0.556400        1.0080           0
+    1004 SOLV 251  TIP4 OM   LP    -1.112800        0.0000           0
+    1005 SOLV 252  TIP4 OH2  OT     0.000000       15.9994           0
+    1006 SOLV 252  TIP4 H1   HT     0.556400        1.0080           0
+    1007 SOLV 252  TIP4 H2   HT     0.556400        1.0080           0
+    1008 SOLV 252  TIP4 OM   LP    -1.112800        0.0000           0
+    1009 SOLV 253  TIP4 OH2  OT     0.000000       15.9994           0
+    1010 SOLV 253  TIP4 H1   HT     0.556400        1.0080           0
+    1011 SOLV 253  TIP4 H2   HT     0.556400        1.0080           0
+    1012 SOLV 253  TIP4 OM   LP    -1.112800        0.0000           0
+    1013 SOLV 254  TIP4 OH2  OT     0.000000       15.9994           0
+    1014 SOLV 254  TIP4 H1   HT     0.556400        1.0080           0
+    1015 SOLV 254  TIP4 H2   HT     0.556400        1.0080           0
+    1016 SOLV 254  TIP4 OM   LP    -1.112800        0.0000           0
+    1017 SOLV 255  TIP4 OH2  OT     0.000000       15.9994           0
+    1018 SOLV 255  TIP4 H1   HT     0.556400        1.0080           0
+    1019 SOLV 255  TIP4 H2   HT     0.556400        1.0080           0
+    1020 SOLV 255  TIP4 OM   LP    -1.112800        0.0000           0
+    1021 SOLV 256  TIP4 OH2  OT     0.000000       15.9994           0
+    1022 SOLV 256  TIP4 H1   HT     0.556400        1.0080           0
+    1023 SOLV 256  TIP4 H2   HT     0.556400        1.0080           0
+    1024 SOLV 256  TIP4 OM   LP    -1.112800        0.0000           0
+
+    1024 !NBOND: bonds
+       1       2       1       4       1       3       2       3
+       5       6       5       8       5       7       6       7
+       9      10       9      12       9      11      10      11
+      13      14      13      16      13      15      14      15
+      17      18      17      20      17      19      18      19
+      21      22      21      24      21      23      22      23
+      25      26      25      28      25      27      26      27
+      29      30      29      32      29      31      30      31
+      33      34      33      36      33      35      34      35
+      37      38      37      40      37      39      38      39
+      41      42      41      44      41      43      42      43
+      45      46      45      48      45      47      46      47
+      49      50      49      52      49      51      50      51
+      53      54      53      56      53      55      54      55
+      57      58      57      60      57      59      58      59
+      61      62      61      64      61      63      62      63
+      65      66      65      68      65      67      66      67
+      69      70      69      72      69      71      70      71
+      73      74      73      76      73      75      74      75
+      77      78      77      80      77      79      78      79
+      81      82      81      84      81      83      82      83
+      85      86      85      88      85      87      86      87
+      89      90      89      92      89      91      90      91
+      93      94      93      96      93      95      94      95
+      97      98      97     100      97      99      98      99
+     101     102     101     104     101     103     102     103
+     105     106     105     108     105     107     106     107
+     109     110     109     112     109     111     110     111
+     113     114     113     116     113     115     114     115
+     117     118     117     120     117     119     118     119
+     121     122     121     124     121     123     122     123
+     125     126     125     128     125     127     126     127
+     129     130     129     132     129     131     130     131
+     133     134     133     136     133     135     134     135
+     137     138     137     140     137     139     138     139
+     141     142     141     144     141     143     142     143
+     145     146     145     148     145     147     146     147
+     149     150     149     152     149     151     150     151
+     153     154     153     156     153     155     154     155
+     157     158     157     160     157     159     158     159
+     161     162     161     164     161     163     162     163
+     165     166     165     168     165     167     166     167
+     169     170     169     172     169     171     170     171
+     173     174     173     176     173     175     174     175
+     177     178     177     180     177     179     178     179
+     181     182     181     184     181     183     182     183
+     185     186     185     188     185     187     186     187
+     189     190     189     192     189     191     190     191
+     193     194     193     196     193     195     194     195
+     197     198     197     200     197     199     198     199
+     201     202     201     204     201     203     202     203
+     205     206     205     208     205     207     206     207
+     209     210     209     212     209     211     210     211
+     213     214     213     216     213     215     214     215
+     217     218     217     220     217     219     218     219
+     221     222     221     224     221     223     222     223
+     225     226     225     228     225     227     226     227
+     229     230     229     232     229     231     230     231
+     233     234     233     236     233     235     234     235
+     237     238     237     240     237     239     238     239
+     241     242     241     244     241     243     242     243
+     245     246     245     248     245     247     246     247
+     249     250     249     252     249     251     250     251
+     253     254     253     256     253     255     254     255
+     257     258     257     260     257     259     258     259
+     261     262     261     264     261     263     262     263
+     265     266     265     268     265     267     266     267
+     269     270     269     272     269     271     270     271
+     273     274     273     276     273     275     274     275
+     277     278     277     280     277     279     278     279
+     281     282     281     284     281     283     282     283
+     285     286     285     288     285     287     286     287
+     289     290     289     292     289     291     290     291
+     293     294     293     296     293     295     294     295
+     297     298     297     300     297     299     298     299
+     301     302     301     304     301     303     302     303
+     305     306     305     308     305     307     306     307
+     309     310     309     312     309     311     310     311
+     313     314     313     316     313     315     314     315
+     317     318     317     320     317     319     318     319
+     321     322     321     324     321     323     322     323
+     325     326     325     328     325     327     326     327
+     329     330     329     332     329     331     330     331
+     333     334     333     336     333     335     334     335
+     337     338     337     340     337     339     338     339
+     341     342     341     344     341     343     342     343
+     345     346     345     348     345     347     346     347
+     349     350     349     352     349     351     350     351
+     353     354     353     356     353     355     354     355
+     357     358     357     360     357     359     358     359
+     361     362     361     364     361     363     362     363
+     365     366     365     368     365     367     366     367
+     369     370     369     372     369     371     370     371
+     373     374     373     376     373     375     374     375
+     377     378     377     380     377     379     378     379
+     381     382     381     384     381     383     382     383
+     385     386     385     388     385     387     386     387
+     389     390     389     392     389     391     390     391
+     393     394     393     396     393     395     394     395
+     397     398     397     400     397     399     398     399
+     401     402     401     404     401     403     402     403
+     405     406     405     408     405     407     406     407
+     409     410     409     412     409     411     410     411
+     413     414     413     416     413     415     414     415
+     417     418     417     420     417     419     418     419
+     421     422     421     424     421     423     422     423
+     425     426     425     428     425     427     426     427
+     429     430     429     432     429     431     430     431
+     433     434     433     436     433     435     434     435
+     437     438     437     440     437     439     438     439
+     441     442     441     444     441     443     442     443
+     445     446     445     448     445     447     446     447
+     449     450     449     452     449     451     450     451
+     453     454     453     456     453     455     454     455
+     457     458     457     460     457     459     458     459
+     461     462     461     464     461     463     462     463
+     465     466     465     468     465     467     466     467
+     469     470     469     472     469     471     470     471
+     473     474     473     476     473     475     474     475
+     477     478     477     480     477     479     478     479
+     481     482     481     484     481     483     482     483
+     485     486     485     488     485     487     486     487
+     489     490     489     492     489     491     490     491
+     493     494     493     496     493     495     494     495
+     497     498     497     500     497     499     498     499
+     501     502     501     504     501     503     502     503
+     505     506     505     508     505     507     506     507
+     509     510     509     512     509     511     510     511
+     513     514     513     516     513     515     514     515
+     517     518     517     520     517     519     518     519
+     521     522     521     524     521     523     522     523
+     525     526     525     528     525     527     526     527
+     529     530     529     532     529     531     530     531
+     533     534     533     536     533     535     534     535
+     537     538     537     540     537     539     538     539
+     541     542     541     544     541     543     542     543
+     545     546     545     548     545     547     546     547
+     549     550     549     552     549     551     550     551
+     553     554     553     556     553     555     554     555
+     557     558     557     560     557     559     558     559
+     561     562     561     564     561     563     562     563
+     565     566     565     568     565     567     566     567
+     569     570     569     572     569     571     570     571
+     573     574     573     576     573     575     574     575
+     577     578     577     580     577     579     578     579
+     581     582     581     584     581     583     582     583
+     585     586     585     588     585     587     586     587
+     589     590     589     592     589     591     590     591
+     593     594     593     596     593     595     594     595
+     597     598     597     600     597     599     598     599
+     601     602     601     604     601     603     602     603
+     605     606     605     608     605     607     606     607
+     609     610     609     612     609     611     610     611
+     613     614     613     616     613     615     614     615
+     617     618     617     620     617     619     618     619
+     621     622     621     624     621     623     622     623
+     625     626     625     628     625     627     626     627
+     629     630     629     632     629     631     630     631
+     633     634     633     636     633     635     634     635
+     637     638     637     640     637     639     638     639
+     641     642     641     644     641     643     642     643
+     645     646     645     648     645     647     646     647
+     649     650     649     652     649     651     650     651
+     653     654     653     656     653     655     654     655
+     657     658     657     660     657     659     658     659
+     661     662     661     664     661     663     662     663
+     665     666     665     668     665     667     666     667
+     669     670     669     672     669     671     670     671
+     673     674     673     676     673     675     674     675
+     677     678     677     680     677     679     678     679
+     681     682     681     684     681     683     682     683
+     685     686     685     688     685     687     686     687
+     689     690     689     692     689     691     690     691
+     693     694     693     696     693     695     694     695
+     697     698     697     700     697     699     698     699
+     701     702     701     704     701     703     702     703
+     705     706     705     708     705     707     706     707
+     709     710     709     712     709     711     710     711
+     713     714     713     716     713     715     714     715
+     717     718     717     720     717     719     718     719
+     721     722     721     724     721     723     722     723
+     725     726     725     728     725     727     726     727
+     729     730     729     732     729     731     730     731
+     733     734     733     736     733     735     734     735
+     737     738     737     740     737     739     738     739
+     741     742     741     744     741     743     742     743
+     745     746     745     748     745     747     746     747
+     749     750     749     752     749     751     750     751
+     753     754     753     756     753     755     754     755
+     757     758     757     760     757     759     758     759
+     761     762     761     764     761     763     762     763
+     765     766     765     768     765     767     766     767
+     769     770     769     772     769     771     770     771
+     773     774     773     776     773     775     774     775
+     777     778     777     780     777     779     778     779
+     781     782     781     784     781     783     782     783
+     785     786     785     788     785     787     786     787
+     789     790     789     792     789     791     790     791
+     793     794     793     796     793     795     794     795
+     797     798     797     800     797     799     798     799
+     801     802     801     804     801     803     802     803
+     805     806     805     808     805     807     806     807
+     809     810     809     812     809     811     810     811
+     813     814     813     816     813     815     814     815
+     817     818     817     820     817     819     818     819
+     821     822     821     824     821     823     822     823
+     825     826     825     828     825     827     826     827
+     829     830     829     832     829     831     830     831
+     833     834     833     836     833     835     834     835
+     837     838     837     840     837     839     838     839
+     841     842     841     844     841     843     842     843
+     845     846     845     848     845     847     846     847
+     849     850     849     852     849     851     850     851
+     853     854     853     856     853     855     854     855
+     857     858     857     860     857     859     858     859
+     861     862     861     864     861     863     862     863
+     865     866     865     868     865     867     866     867
+     869     870     869     872     869     871     870     871
+     873     874     873     876     873     875     874     875
+     877     878     877     880     877     879     878     879
+     881     882     881     884     881     883     882     883
+     885     886     885     888     885     887     886     887
+     889     890     889     892     889     891     890     891
+     893     894     893     896     893     895     894     895
+     897     898     897     900     897     899     898     899
+     901     902     901     904     901     903     902     903
+     905     906     905     908     905     907     906     907
+     909     910     909     912     909     911     910     911
+     913     914     913     916     913     915     914     915
+     917     918     917     920     917     919     918     919
+     921     922     921     924     921     923     922     923
+     925     926     925     928     925     927     926     927
+     929     930     929     932     929     931     930     931
+     933     934     933     936     933     935     934     935
+     937     938     937     940     937     939     938     939
+     941     942     941     944     941     943     942     943
+     945     946     945     948     945     947     946     947
+     949     950     949     952     949     951     950     951
+     953     954     953     956     953     955     954     955
+     957     958     957     960     957     959     958     959
+     961     962     961     964     961     963     962     963
+     965     966     965     968     965     967     966     967
+     969     970     969     972     969     971     970     971
+     973     974     973     976     973     975     974     975
+     977     978     977     980     977     979     978     979
+     981     982     981     984     981     983     982     983
+     985     986     985     988     985     987     986     987
+     989     990     989     992     989     991     990     991
+     993     994     993     996     993     995     994     995
+     997     998     997    1000     997     999     998     999
+    1001    1002    1001    1004    1001    1003    1002    1003
+    1005    1006    1005    1008    1005    1007    1006    1007
+    1009    1010    1009    1012    1009    1011    1010    1011
+    1013    1014    1013    1016    1013    1015    1014    1015
+    1017    1018    1017    1020    1017    1019    1018    1019
+    1021    1022    1021    1024    1021    1023    1022    1023
+
+     256 !NTHETA: angles
+       2       1       3       6       5       7      10       9      11
+      14      13      15      18      17      19      22      21      23
+      26      25      27      30      29      31      34      33      35
+      38      37      39      42      41      43      46      45      47
+      50      49      51      54      53      55      58      57      59
+      62      61      63      66      65      67      70      69      71
+      74      73      75      78      77      79      82      81      83
+      86      85      87      90      89      91      94      93      95
+      98      97      99     102     101     103     106     105     107
+     110     109     111     114     113     115     118     117     119
+     122     121     123     126     125     127     130     129     131
+     134     133     135     138     137     139     142     141     143
+     146     145     147     150     149     151     154     153     155
+     158     157     159     162     161     163     166     165     167
+     170     169     171     174     173     175     178     177     179
+     182     181     183     186     185     187     190     189     191
+     194     193     195     198     197     199     202     201     203
+     206     205     207     210     209     211     214     213     215
+     218     217     219     222     221     223     226     225     227
+     230     229     231     234     233     235     238     237     239
+     242     241     243     246     245     247     250     249     251
+     254     253     255     258     257     259     262     261     263
+     266     265     267     270     269     271     274     273     275
+     278     277     279     282     281     283     286     285     287
+     290     289     291     294     293     295     298     297     299
+     302     301     303     306     305     307     310     309     311
+     314     313     315     318     317     319     322     321     323
+     326     325     327     330     329     331     334     333     335
+     338     337     339     342     341     343     346     345     347
+     350     349     351     354     353     355     358     357     359
+     362     361     363     366     365     367     370     369     371
+     374     373     375     378     377     379     382     381     383
+     386     385     387     390     389     391     394     393     395
+     398     397     399     402     401     403     406     405     407
+     410     409     411     414     413     415     418     417     419
+     422     421     423     426     425     427     430     429     431
+     434     433     435     438     437     439     442     441     443
+     446     445     447     450     449     451     454     453     455
+     458     457     459     462     461     463     466     465     467
+     470     469     471     474     473     475     478     477     479
+     482     481     483     486     485     487     490     489     491
+     494     493     495     498     497     499     502     501     503
+     506     505     507     510     509     511     514     513     515
+     518     517     519     522     521     523     526     525     527
+     530     529     531     534     533     535     538     537     539
+     542     541     543     546     545     547     550     549     551
+     554     553     555     558     557     559     562     561     563
+     566     565     567     570     569     571     574     573     575
+     578     577     579     582     581     583     586     585     587
+     590     589     591     594     593     595     598     597     599
+     602     601     603     606     605     607     610     609     611
+     614     613     615     618     617     619     622     621     623
+     626     625     627     630     629     631     634     633     635
+     638     637     639     642     641     643     646     645     647
+     650     649     651     654     653     655     658     657     659
+     662     661     663     666     665     667     670     669     671
+     674     673     675     678     677     679     682     681     683
+     686     685     687     690     689     691     694     693     695
+     698     697     699     702     701     703     706     705     707
+     710     709     711     714     713     715     718     717     719
+     722     721     723     726     725     727     730     729     731
+     734     733     735     738     737     739     742     741     743
+     746     745     747     750     749     751     754     753     755
+     758     757     759     762     761     763     766     765     767
+     770     769     771     774     773     775     778     777     779
+     782     781     783     786     785     787     790     789     791
+     794     793     795     798     797     799     802     801     803
+     806     805     807     810     809     811     814     813     815
+     818     817     819     822     821     823     826     825     827
+     830     829     831     834     833     835     838     837     839
+     842     841     843     846     845     847     850     849     851
+     854     853     855     858     857     859     862     861     863
+     866     865     867     870     869     871     874     873     875
+     878     877     879     882     881     883     886     885     887
+     890     889     891     894     893     895     898     897     899
+     902     901     903     906     905     907     910     909     911
+     914     913     915     918     917     919     922     921     923
+     926     925     927     930     929     931     934     933     935
+     938     937     939     942     941     943     946     945     947
+     950     949     951     954     953     955     958     957     959
+     962     961     963     966     965     967     970     969     971
+     974     973     975     978     977     979     982     981     983
+     986     985     987     990     989     991     994     993     995
+     998     997     999    1002    1001    1003    1006    1005    1007
+    1010    1009    1011    1014    1013    1015    1018    1017    1019
+    1022    1021    1023
+
+       0 !NPHI: dihedrals
+
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+
+       1       0 !NGRP
+       0       0       0
+
