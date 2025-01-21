@@ -30,7 +30,7 @@ sampling_vector[4] = [-√(2/9), -√(2/3), -1/3];
 #
 MaxResidue=256
 residues = 1:MaxResidue
-nsample = 1
+nsample = 5
 sample_residues = sample(residues, nsample; replace=false)
 #
 # End of system specific stuff 
