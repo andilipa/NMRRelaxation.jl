@@ -3,7 +3,7 @@
 This repository has the codes to compute the NMR dipole-dipole autocorrelations for bulk fluids, ideas that formed the basis of the references noted below. The following examples are included for reference: (1) bulk water modeled using the TIP4P potential, and (2) bulk n-heptane described by the CGenFF potential. The water simulations are based on equilibration in the NVT ensemble followed by a production in the NVE ensemble. The n-heptane simulations used NVT ensemble simulations, with the thermostatting performed using the less-intrusive stochastic velocity rescaling thermostat. 
 
 
-The original codes that informed the references noted below were based on Python, with the parts that needed to be accelerated written in Fortran. The present code is written entirely in Julia. The Julia language approach here is very much that of an eager amateur, so more will need to be done to have it in a way that better conforms to the standard other Julia packages.  
+The original codes that informed the references noted below were based on Python, with the parts that needed to be accelerated written in Fortran. The present code is written entirely in Julia. The Julia language approach here is very much that of an eager amateur, so more will need to be done to have it in a way that better conforms to the standard in other Julia packages.  
 
 It should be quite easy to extend the ideas presented here to fluids next to interfaces, as was already done in our published work for heptane in kerogens. 
 
@@ -19,7 +19,7 @@ then I could not obtain the box dimensions which should, in principle, be obtain
 box_dimensions = ta.boxsize;
 ```
 
-Since I could not find an obvious error, I made a simple fix to the ``mdload`` function within  ``fileIO.jl``. Specifically, 
+I made a simple fix to the ``mdload`` function within  ``fileIO.jl``. Specifically, 
 
 ```
    # Code fragment I added 
